@@ -1,4 +1,4 @@
-# PA-AAS Common Data Dictionary(공통 데이터 사전) v0 — Draft(초안)
+# PA-AAS Common Data Dictionary(공통 데이터 사전) v0.1 — Draft(초안)
 
 전북 피지컬AI 과제의 PA-AAS Submodel pack(서브모델 팩)에서 쓰는 **Common data dictionary(공통 데이터 사전)**이다. Dictionary(사전)의 한 줄이 값의 종류 하나이고, 그 한 줄이 AAS의 Concept Description(CD, 개념설명) 하나다.
 어느 공정 · 위치 · Channel(채널)의 값인지는 사전이 아니라 AAS 안의 자리(상위 묶음 · 요소 이름)와 AIMC(Asset Interfaces Mapping Configuration, 매핑 구성) · Channel profile(채널 프로파일)이 맡는다.
