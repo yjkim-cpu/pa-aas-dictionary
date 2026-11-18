@@ -1,6 +1,6 @@
 # PA-AAS 공통 데이터 사전 v0 (초안)
 
-전북 피지컬AI 과제의 PA-AAS 서브모델 팩에서 쓰는 **공통 데이터 사전**이다. 한 줄이 값의 종류 하나이고, 그 한 줄이 AAS의 개념설명(ConceptDescription) 하나다.
+전북 피지컬AI 과제의 PA-AAS 서브모델 팩에서 쓰는 **Common data dictionary(공통 데이터 사전)**이다. 한 줄이 값의 종류 하나이고, 그 한 줄이 AAS의 ConceptDescription(개념설명) 하나다.
 어느 공정 · 위치 · 채널의 값인지는 사전이 아니라 AAS 안의 자리(상위 묶음 · 요소 이름)와 AIMC · 채널 프로파일이 맡는다.
 
 작성: 한국정보통신기술협회(TTA) AI혁신표준팀 · 생성일 2026-11-18 · 상태: **초안 — 합의 전. 식별자와 정의가 바뀔 수 있다.**
@@ -10,17 +10,17 @@
 
 ## 들어 있는 것
 
-| 파일                                      | 내용                                                             | 대응하는 규격                                                                                          |
-| --------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| `dictionary.csv`                        | 사전 표 (data dictionary table, 283줄)                             | IDTA-01003-a (Part 3a) — 한 줄이 IEC 61360 데이터 사양을 쓰는 개념설명 하나                                       |
-| `values.csv`                            | 코드형 항목의 값과 뜻, 값마다 식별자 (29줄, 항목 11개)                            | Part 3a §6.2의 `valueList` (값과 `valueId`의 짝)                                                      |
-| `units.csv`                             | 단위 기호마다 ECLASS · IEC 62720 · QUDT · UCUM (15종)                 | Part 3a §6.2의 `unit` · `unitId` (제약 AASc-3a-009: 측정형이면 단위가 있어야 한다)                               |
-| `mapping.csv`                           | 원천 식별자(source identifier, 전북대 · KOSMO 531종) → 사전 식별자 대응표(540줄) | 규격 파일은 아님 — IDTA-01001 (Part 1)의 `isCaseOf`(같은 뜻의 다른 정의를 가리키는 칸)에 해당하는 정보를 표로 편 것                |
-| `external_refs.csv`                     | 새로 만들지 않고 그대로 쓰는 국제 · 외부 식별자 (81종)                             | IDTA-01001 (Part 1)의 `semanticId` 외부 참조 — IDTA 서식 · ECLASS · IEC CDD(IEC 61360) · W3C WoT        |
-| `concept-descriptions.json`             | 개념설명 전체 (305건)                                                 | IDTA-01002 (Part 2) §7.4 CD 저장소 — GetAllConceptDescriptions, `GET /concept-descriptions` 의 응답 모양 |
-| `concept-descriptions/<base64url>.json` | 개념설명 한 건. 파일 이름 = 식별자의 base64url                               | Part 2 §7.4 — GetConceptDescriptionById, `GET /concept-descriptions/{cdIdentifier}` 의 응답 모양      |
-| `environment.json`                      | 개념설명 전체를 담은 AAS Environment                                    | IDTA-01001 (Part 1)의 Environment, JSON 직렬화 — CD 저장소 서버 · AASX Package Explorer에 그대로 싣는다          |
-| `index.json`                            | 식별자 → 이름 · 단위 · 값 · 상태 · 파일, `aliases`(원천 식별자 → 사전 식별자)        | 규격 파일은 아님 — Part 2 §7.4의 조건 조회(…ByIdShort · …ByIsCaseOf)를 정적 파일로 대신                              |
+| 파일 | 내용 | 대응하는 규격 |
+|---|---|---|
+| `dictionary.csv` | Data dictionary table(데이터 사전 테이블, 283줄) | IDTA-01003-a (Part 3a) — 한 줄이 IEC 61360 데이터 사양을 쓰는 개념설명 하나 |
+| `values.csv` | Value list(값 목록, 29줄 · 항목 11개) — 코드형 항목의 값과 뜻, 값마다 식별자 | Part 3a §6.2의 `valueList` (값과 `valueId`의 짝) |
+| `units.csv` | Unit table(단위 표, 15종) — 단위 기호마다 ECLASS · IEC 62720 · QUDT · UCUM | Part 3a §6.2의 `unit` · `unitId` (제약 AASc-3a-009: 측정형이면 단위가 있어야 한다) |
+| `mapping.csv` | Mapping table(대응표, 540줄) — Source identifier(원천 식별자, 전북대 · KOSMO 531종) → Dictionary identifier(사전 식별자) | 규격 파일은 아님 — IDTA-01001 (Part 1)의 `isCaseOf`(같은 뜻의 다른 정의를 가리키는 칸)에 해당하는 정보를 표로 편 것 |
+| `external_refs.csv` | External references(외부 참조, 81종) — 새로 만들지 않고 그대로 쓰는 국제 · 외부 식별자 | IDTA-01001 (Part 1)의 `semanticId` 외부 참조 — IDTA 서식 · ECLASS · IEC CDD(IEC 61360) · W3C WoT |
+| `concept-descriptions.json` | Concept descriptions(개념설명 전체, 305건) | IDTA-01002 (Part 2) §7.4 CD 저장소 — GetAllConceptDescriptions, `GET /concept-descriptions` 의 응답 모양 |
+| `concept-descriptions/<base64url>.json` | Concept description(개념설명 한 건) — 파일 이름 = 식별자의 base64url | Part 2 §7.4 — GetConceptDescriptionById, `GET /concept-descriptions/{cdIdentifier}` 의 응답 모양 |
+| `environment.json` | AAS Environment(AAS 환경 파일) — 개념설명 전체를 담은 것 | IDTA-01001 (Part 1)의 Environment, JSON 직렬화 — CD 저장소 서버 · AASX Package Explorer에 그대로 싣는다 |
+| `index.json` | Index(색인) — 식별자 → 이름 · 단위 · 값 · 상태 · 파일, `aliases`: Source identifier(원천 식별자) → Dictionary identifier(사전 식별자) | 규격 파일은 아님 — Part 2 §7.4의 조건 조회(…ByIdShort · …ByIsCaseOf)를 정적 파일로 대신 |
 
 개념설명의 내용은 IDTA-01003-a(Part 3a, IEC 61360 데이터 사양)를 따르고 aas-core3.0으로 검증했다(위반 0건).
 이 폴더는 정적 파일이다. Part 2 조회 API의 경로와 응답 모양을 그대로 따랐으므로, CD 저장소 서버를 세우면 `environment.json`을 올려 같은 경로로 제공할 수 있다.
