@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "SlotNumber",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/SlotNumber/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Slot number"
+          },
+          {
+            "language": "ko",
+            "text": "슬롯 번호"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Position number of a storage slot."
+          },
+          {
+            "language": "ko",
+            "text": "적재 슬롯의 위치 번호."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

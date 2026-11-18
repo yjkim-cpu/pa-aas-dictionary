@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "ProductionState",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/ProductionState/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Production state"
+          },
+          {
+            "language": "ko",
+            "text": "생산 진행 상태"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Progress state of the equipment against the production order."
+          },
+          {
+            "language": "ko",
+            "text": "생산 지시 대비 설비의 진행 상태."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

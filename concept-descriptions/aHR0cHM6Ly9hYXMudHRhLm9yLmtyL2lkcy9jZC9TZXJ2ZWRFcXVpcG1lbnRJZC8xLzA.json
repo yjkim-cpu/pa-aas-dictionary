@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "ServedEquipmentId",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/ServedEquipmentId/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Served equipment ID"
+          },
+          {
+            "language": "ko",
+            "text": "담당 설비 ID"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Identifier of the equipment served by this device."
+          },
+          {
+            "language": "ko",
+            "text": "이 장치가 담당하는 설비의 식별자."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

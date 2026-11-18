@@ -1,0 +1,60 @@
+{
+  "category": "PROPERTY",
+  "idShort": "ProcessAirPressure",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/ProcessAirPressure/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Process air pressure"
+          },
+          {
+            "language": "ko",
+            "text": "공정 공기압"
+          }
+        ],
+        "unit": "bar",
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Air pressure supplied to the process."
+          },
+          {
+            "language": "ko",
+            "text": "공정에 공급되는 공기 압력."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/AirPressure/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

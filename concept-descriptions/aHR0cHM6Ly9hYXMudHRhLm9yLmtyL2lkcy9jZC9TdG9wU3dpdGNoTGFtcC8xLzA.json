@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "StopSwitchLamp",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/StopSwitchLamp/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Stop switch lamp"
+          },
+          {
+            "language": "ko",
+            "text": "정지 스위치 램프"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Indicator lamp output of the STOP switch."
+          },
+          {
+            "language": "ko",
+            "text": "정지 스위치 표시등 출력."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

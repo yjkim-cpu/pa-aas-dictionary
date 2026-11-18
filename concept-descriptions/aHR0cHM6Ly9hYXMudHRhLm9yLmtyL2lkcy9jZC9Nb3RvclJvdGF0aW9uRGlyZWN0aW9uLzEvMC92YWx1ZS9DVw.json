@@ -1,0 +1,38 @@
+{
+  "category": "VALUE",
+  "idShort": "MotorRotationDirection_Value_CW",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0/value/CW",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "clockwise"
+          },
+          {
+            "language": "ko",
+            "text": "시계 방향"
+          }
+        ],
+        "dataType": "STRING",
+        "value": "CW",
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

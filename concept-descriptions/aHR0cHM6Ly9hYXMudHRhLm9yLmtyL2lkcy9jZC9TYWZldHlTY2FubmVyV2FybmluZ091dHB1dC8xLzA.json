@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "SafetyScannerWarningOutput",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/SafetyScannerWarningOutput/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Safety scanner warning output"
+          },
+          {
+            "language": "ko",
+            "text": "안전 스캐너 경고 출력"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Warning field output of a safety laser scanner."
+          },
+          {
+            "language": "ko",
+            "text": "안전 레이저 스캐너의 경고 영역 출력."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

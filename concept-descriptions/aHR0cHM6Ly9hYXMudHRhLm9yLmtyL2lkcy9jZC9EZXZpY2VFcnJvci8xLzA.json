@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "DeviceError",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/DeviceError/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Device error"
+          },
+          {
+            "language": "ko",
+            "text": "장치 이상"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Output indicating a device error."
+          },
+          {
+            "language": "ko",
+            "text": "장치 이상 발생 출력."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

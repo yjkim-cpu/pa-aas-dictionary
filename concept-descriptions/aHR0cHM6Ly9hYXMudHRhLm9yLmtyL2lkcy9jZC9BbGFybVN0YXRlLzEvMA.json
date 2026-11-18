@@ -1,0 +1,88 @@
+{
+  "category": "PROPERTY",
+  "idShort": "AlarmState",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/AlarmState/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Alarm state"
+          },
+          {
+            "language": "ko",
+            "text": "알람 상태"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Raised or cleared state of an equipment alarm."
+          },
+          {
+            "language": "ko",
+            "text": "설비 알람의 발생·해제 상태."
+          }
+        ],
+        "valueList": {
+          "valueReferencePairs": [
+            {
+              "value": "0",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/0"
+                  }
+                ]
+              }
+            },
+            {
+              "value": "1",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/1"
+                  }
+                ]
+              }
+            },
+            {
+              "value": "2",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/2"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

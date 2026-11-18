@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "LightCount",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/LightCount/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Number of lights"
+          },
+          {
+            "language": "ko",
+            "text": "조명 수"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Number of lights configured in the equipment."
+          },
+          {
+            "language": "ko",
+            "text": "설비에 구성된 조명의 개수."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

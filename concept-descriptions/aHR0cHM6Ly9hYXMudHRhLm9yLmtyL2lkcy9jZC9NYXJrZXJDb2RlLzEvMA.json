@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MarkerCode",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MarkerCode/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Marker code"
+          },
+          {
+            "language": "ko",
+            "text": "마킹 코드"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Marking content or marker job code."
+          },
+          {
+            "language": "ko",
+            "text": "마킹 내용 또는 마킹기 작업 코드."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

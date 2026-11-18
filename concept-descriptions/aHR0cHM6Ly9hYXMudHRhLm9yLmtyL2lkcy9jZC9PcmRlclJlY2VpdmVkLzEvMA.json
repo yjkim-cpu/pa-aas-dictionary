@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "OrderReceived",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/OrderReceived/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Order received"
+          },
+          {
+            "language": "ko",
+            "text": "지시 갱신 완료"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Whether a new production order has been applied."
+          },
+          {
+            "language": "ko",
+            "text": "새 생산 지시의 반영이 끝났는지 여부."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

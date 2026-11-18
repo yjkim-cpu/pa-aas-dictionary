@@ -1,0 +1,69 @@
+{
+  "category": "PROPERTY",
+  "idShort": "BodyHeight",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/BodyHeight/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Body height"
+          },
+          {
+            "language": "ko",
+            "text": "본체 높이"
+          }
+        ],
+        "unit": "mm",
+        "unitId": {
+          "type": "ExternalReference",
+          "keys": [
+            {
+              "type": "GlobalReference",
+              "value": "0173-1#05-AAA480#003"
+            }
+          ]
+        },
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Height of the equipment body."
+          },
+          {
+            "language": "ko",
+            "text": "설비 본체의 높이."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/BodyHeight/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

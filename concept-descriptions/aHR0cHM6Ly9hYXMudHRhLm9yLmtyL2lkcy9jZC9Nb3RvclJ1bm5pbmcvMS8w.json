@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MotorRunning",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MotorRunning/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Motor running"
+          },
+          {
+            "language": "ko",
+            "text": "모터 운전"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Running signal of a motor or fan."
+          },
+          {
+            "language": "ko",
+            "text": "모터 또는 팬의 운전 신호."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

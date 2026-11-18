@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "PresenceSensor",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Presence sensor"
+          },
+          {
+            "language": "ko",
+            "text": "물체 감지 센서"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Sensor signal indicating that an object such as a pallet, product or part is at the detection position."
+          },
+          {
+            "language": "ko",
+            "text": "파렛트·제품·부품 등 물체가 감지 위치에 있는지 나타내는 센서 신호. 감지 대상과 위치는 요소 이름과 상위 묶음으로 구분한다."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

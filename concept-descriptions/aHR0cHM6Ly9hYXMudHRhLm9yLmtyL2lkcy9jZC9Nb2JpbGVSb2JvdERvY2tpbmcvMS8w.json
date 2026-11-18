@@ -1,0 +1,47 @@
+{
+  "category": "COLLECTION",
+  "idShort": "MobileRobotDocking",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MobileRobotDocking/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Mobile robot docking"
+          },
+          {
+            "language": "ko",
+            "text": "이동로봇 도킹"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Mobile robot docking collection."
+          },
+          {
+            "language": "ko",
+            "text": "이동로봇 도킹·주행 정보를 담는 묶음."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

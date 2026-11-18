@@ -1,0 +1,47 @@
+{
+  "category": "COLLECTION",
+  "idShort": "Screwdriver",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/Screwdriver/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Electric screwdriver"
+          },
+          {
+            "language": "ko",
+            "text": "전동 드라이버"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Electric screwdriver collection."
+          },
+          {
+            "language": "ko",
+            "text": "전동 드라이버 I/O 신호를 담는 묶음."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

@@ -1,0 +1,82 @@
+﻿id,owner,element_type,idShort,submodel,resolves,note
+0173-1#01-ADR442#007,ECLASS,SubmodelElementCollection,None,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAM556#002,ECLASS,Property,SerialNumber,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0112/2///61987#ABA951#009
+0173-1#02-AAO124#004,ECLASS,Property,AddressLine1,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAO125#004,ECLASS,Property,AddressLine2,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAO127#003,ECLASS,MultiLanguageProperty,Department,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAO128#002,ECLASS,MultiLanguageProperty,Street,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO128#003
+0173-1#02-AAO128#003,ECLASS,Property,Street,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO128#002
+0173-1#02-AAO129#002,ECLASS,MultiLanguageProperty,Zipcode,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAO132#002,ECLASS,MultiLanguageProperty,CityTown,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO132#003
+0173-1#02-AAO132#003,ECLASS,Property,CityTown,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO132#002
+0173-1#02-AAO133#002,ECLASS,MultiLanguageProperty,StateCounty,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO133#003
+0173-1#02-AAO133#003,ECLASS,Property,StateCounty,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO133#002
+0173-1#02-AAO134#002,ECLASS,MultiLanguageProperty,NationalCode,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO134#003
+0173-1#02-AAO134#003,ECLASS,Property,NationalCode,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO134#002
+0173-1#02-AAO202#004,ECLASS,Property,AddressRemarks,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAO677#004,ECLASS,Property,ManufacturerName,TechnicalData,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0112/2///61987#ABA565#009
+0173-1#02-AAW001#001,ECLASS,MultiLanguageProperty,Company,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-AAW338#003,ECLASS,MultiLanguageProperty,ManufacturerProductDesignation,TechnicalData,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0112/2///61987#ABA567#009
+0173-1#02-AAY811#001,ECLASS,Property,URIOfTheProduct,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0112/2///61987#ABN590#002
+0173-1#02-ABJ094#001,ECLASS,Property,BuildingLevel,AssetLocation,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-ABK161#002/0173-1#01-AHX838#002,ECLASS,SubmodelElementCollection,GeneralInformation,TechnicalData,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-ABK163#002,ECLASS,SubmodelElementList,TechnicalPropertyAreas,TechnicalData,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0173-1#02-ABL358#002/0173-1#01-AHX773#002,ECLASS,SubmodelElementCollection,None,TechnicalData,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+https://admin-shell.io/idta/AssetInterfacesDescription/1/0/EndpointMetadata,IDTA,SubmodelElementCollection,EndpointMetadata,AssetInterfacesDescription,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesDescription/1/0/InteractionMetadata,IDTA,SubmodelElementCollection,InteractionMetadata,AssetInterfacesDescription,열림(CD JSON),같은 이름에 다른 ID: https://www.w3.org/2019/wot/td#InteractionAffordance
+https://admin-shell.io/idta/AssetInterfacesDescription/1/0/Interface,IDTA,SubmodelElementCollection,"InterfaceOPCUA, InterfaceTemplateForMQTT",AssetInterfacesDescription,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesDescription/1/0/PropertyDefinition,IDTA,SubmodelElementCollection,"EQP_REL00_REL_D800, EQP_REL00_REL_D801, EQP_REL00_REL_D802",AssetInterfacesDescription,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesDescription/1/0/key,IDTA,Property,key,AssetInterfacesDescription,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/1/0/InterfaceReference,IDTA,ReferenceElement,InterfaceReference,AssetInterfacesMappingConfiguration,안 열림(HTTP 404),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/1/0/MappingConfiguration,IDTA,SubmodelElementCollection,None,AssetInterfacesMappingConfiguration,안 열림(HTTP 404),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/1/0/MappingConfigurations,IDTA,SubmodelElementList,MappingConfigurations,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/1/0/MappingSourceSinkRelation,IDTA,RelationshipElement,None,AssetInterfacesMappingConfiguration,안 열림(HTTP 404),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/1/0/MappingSourceSinkRelations,IDTA,SubmodelElementList,MappingSourceSinkRelations,AssetInterfacesMappingConfiguration,안 열림(HTTP 404),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration,IDTA,SubmodelElementCollection,None,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/DefaultPollingInterval,IDTA,Property,DefaultPollingInterval,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Sink,IDTA,SubmodelElementCollection,None,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Sink/Sink,IDTA,ReferenceElement,Sink,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Sink/SinkId,IDTA,Property,SinkId,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Sinks,IDTA,SubmodelElementList,Sinks,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Source,IDTA,SubmodelElementCollection,None,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Source/PollingInterval,IDTA,Property,PollingInterval,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Source/Source,IDTA,ReferenceElement,Source,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Source/SourceId,IDTA,Property,SourceId,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Sources,IDTA,SubmodelElementList,Sources,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/AssetInterfacesMappingConfiguration/2/0/MappingConfiguration/Transformation,IDTA,Blob,Transformation,AssetInterfacesMappingConfiguration,열림(CD JSON),
+https://admin-shell.io/idta/HierarchicalStructures/ArcheType/1/0,IDTA,Property,ArcheType,HierarchicalStructures,열림(CD JSON),
+https://admin-shell.io/idta/HierarchicalStructures/EntryNode/1/0,IDTA,Entity,EntryNode,HierarchicalStructures,열림(CD JSON),
+https://admin-shell.io/idta/HierarchicalStructures/HasPart/1/0,IDTA,RelationshipElement,"HasPart_Actuator_TransferUnit_A1, HasPart_Conveyor_A1, HasPart_Vision_A2",HierarchicalStructures,열림(CD JSON),
+https://admin-shell.io/idta/HierarchicalStructures/Node/1/0,IDTA,Entity,"Actuator_TransferUnit_A1, Conveyor_A1, Vision_A2",HierarchicalStructures,열림(CD JSON),
+https://admin-shell.io/idta/mlp/areadescription/1/0,IDTA,MultiLanguageProperty,AreaDesciption,AssetLocation,안 열림(HTTP 404),
+https://admin-shell.io/idta/prop/areaid/1/0,IDTA,Property,AreaId,AssetLocation,안 열림(HTTP 404),
+https://admin-shell.io/idta/prop/areaname/1/0,IDTA,Property,AreaName,AssetLocation,안 열림(HTTP 404),
+https://admin-shell.io/idta/prop/kindofarea/1/0,IDTA,Property,KindOfArea,AssetLocation,열림(CD JSON),
+https://admin-shell.io/idta/smc/visitedareasrecord/1/0,IDTA,SubmodelElementCollection,None,AssetLocation,안 열림(HTTP 404),
+https://admin-shell.io/idta/sml/addresses/1/0,IDTA,SubmodelElementList,Addresses,AssetLocation,안 열림(HTTP 404),
+https://admin-shell.io/idta/sml/visitedareas/1/0,IDTA,SubmodelElementList,VisitedAreas,AssetLocation,열림(CD JSON),
+https://admin-shell.io/zvei/nameplate/1/0/ContactInformations/AddressInformation,IDTA,SubmodelElementCollection,AddressInformation,DigitalNameplate,안 열림(HTTP 404),
+0112/2///61360_7#AAS011#001,IEC CDD,MultiLanguageProperty,ManufacturerProductRoot,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0112/2///61987#ABA300#008,IEC CDD,Property,ManufacturerProductType,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0112/2///61987#ABA565#009,IEC CDD,MultiLanguageProperty,ManufacturerName,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAO677#004
+0112/2///61987#ABA567#009,IEC CDD,MultiLanguageProperty,ManufacturerProductDesignation,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAW338#003
+0112/2///61987#ABA951#009,IEC CDD,Property,SerialNumber,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAM556#002
+0112/2///61987#ABN590#002,IEC CDD,Property,URIOfTheProduct,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",같은 이름에 다른 ID: 0173-1#02-AAY811#001
+0112/2///61987#ABP000#002,IEC CDD,Property,YearOfConstruction,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+0112/2///61987#ABP464#002,IEC CDD,MultiLanguageProperty,ManufacturerProductFamily,DigitalNameplate,"IRDI(주소 아님, 소유 기관 사전에서 조회)",
+https://www.w3.org/1999/02/22-rdf-syntax-ns#type,W3C,Property,type,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/hypermedia#forContentType,W3C,Property,contentType,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/hypermedia#hasTarget,W3C,Property,href,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/json-schema#properties,W3C,SubmodelElementCollection,properties,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",같은 이름에 다른 ID: https://www.w3.org/2019/wot/td#PropertyAffordance
+https://www.w3.org/2019/wot/json-schema#propertyName,W3C,SubmodelElementCollection,"ActPositionX, ActPositionY, ActTheta",AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/security#NoSecurityScheme,W3C,SubmodelElementCollection,nosec_sc,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/security#SecurityScheme,W3C,Property,scheme,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#InteractionAffordance,W3C,SubmodelElementCollection,InteractionMetadata,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",같은 이름에 다른 ID: https://admin-shell.io/idta/AssetInterfacesDescription/1/0/InteractionMetadata
+https://www.w3.org/2019/wot/td#PropertyAffordance,W3C,SubmodelElementCollection,properties,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",같은 이름에 다른 ID: https://www.w3.org/2019/wot/json-schema#properties
+https://www.w3.org/2019/wot/td#baseURI,W3C,Property,base,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#definesSecurityScheme,W3C,SubmodelElementCollection,securityDefinitions,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#hasForm,W3C,SubmodelElementCollection,forms,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#hasSecurityConfiguration,W3C,SubmodelElementList,security,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#isObservable,W3C,Property,observable,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://www.w3.org/2019/wot/td#title,W3C,Property,title,AssetInterfacesDescription,"열림(W3C 온톨로지 문서, JSON 아님)",
+https://schema.org/unitCode,schema.org,Property,unit,AssetInterfacesDescription,열림,

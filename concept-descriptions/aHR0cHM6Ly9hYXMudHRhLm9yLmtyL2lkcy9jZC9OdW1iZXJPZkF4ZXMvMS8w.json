@@ -1,0 +1,59 @@
+{
+  "category": "PROPERTY",
+  "idShort": "NumberOfAxes",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/NumberOfAxes/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Number of axes"
+          },
+          {
+            "language": "ko",
+            "text": "축 수"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Number of independently driven axes."
+          },
+          {
+            "language": "ko",
+            "text": "독립 구동되는 축의 수."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/NumberOfAxes/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

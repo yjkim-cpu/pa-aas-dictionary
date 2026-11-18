@@ -1,0 +1,30 @@
+﻿idShort,value,meaning_ko,meaning_en,valueId
+ProductionEvent,1,시작,start,https://aas.tta.or.kr/ids/cd/ProductionEvent/1/0/value/1
+ProductionEvent,2,종료,end,https://aas.tta.or.kr/ids/cd/ProductionEvent/1/0/value/2
+AlarmState,0,없음,none,https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/0
+AlarmState,1,발생,raised,https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/1
+AlarmState,2,해제,cleared,https://aas.tta.or.kr/ids/cd/AlarmState/1/0/value/2
+OperatingTimeType,1,가동,run,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0/value/1
+OperatingTimeType,2,대기,idle,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0/value/2
+OperatingTimeType,3,알람,alarm,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0/value/3
+MaterialState,0,없음,none,https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/0
+MaterialState,1,원자재,raw material,https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/1
+MaterialState,2,불량,defective,https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/2
+MaterialState,3,빈 파렛트,empty pallet,https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/3
+InspectionResult,1,불합격,NG,https://aas.tta.or.kr/ids/cd/InspectionResult/1/0/value/1
+InspectionResult,2,합격,OK,https://aas.tta.or.kr/ids/cd/InspectionResult/1/0/value/2
+MarkingPosition,1,상부,top,https://aas.tta.or.kr/ids/cd/MarkingPosition/1/0/value/1
+MarkingPosition,2,하부,bottom,https://aas.tta.or.kr/ids/cd/MarkingPosition/1/0/value/2
+MarkingPosition,3,측면,side,https://aas.tta.or.kr/ids/cd/MarkingPosition/1/0/value/3
+PalletGrade,FinishedGood,완제품,finished good,https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/FinishedGood
+PalletGrade,NG,불량,NG,https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/NG
+PalletGrade,Unknown,미확인,unknown,https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/Unknown
+SlotLoadState,0,파렛트 없음,no pallet,https://aas.tta.or.kr/ids/cd/SlotLoadState/1/0/value/0
+SlotLoadState,1,빈 파렛트,empty pallet,https://aas.tta.or.kr/ids/cd/SlotLoadState/1/0/value/1
+SlotLoadState,2,적재 파렛트,loaded pallet,https://aas.tta.or.kr/ids/cd/SlotLoadState/1/0/value/2
+TransferEvent,1,시작,start,https://aas.tta.or.kr/ids/cd/TransferEvent/1/0/value/1
+TransferEvent,2,도착,arrival,https://aas.tta.or.kr/ids/cd/TransferEvent/1/0/value/2
+MotorRotationDirection,CW,시계 방향,clockwise,https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0/value/CW
+MotorRotationDirection,CCW,반시계 방향,counter-clockwise,https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0/value/CCW
+IoDirection,1,입력,input,https://aas.tta.or.kr/ids/cd/IoDirection/1/0/value/1
+IoDirection,2,출력,output,https://aas.tta.or.kr/ids/cd/IoDirection/1/0/value/2

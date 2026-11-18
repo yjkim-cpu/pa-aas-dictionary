@@ -1,0 +1,69 @@
+{
+  "category": "PROPERTY",
+  "idShort": "PositionRepeatability",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PositionRepeatability/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Position repeatability"
+          },
+          {
+            "language": "ko",
+            "text": "위치 반복 정밀도"
+          }
+        ],
+        "unit": "mm",
+        "unitId": {
+          "type": "ExternalReference",
+          "keys": [
+            {
+              "type": "GlobalReference",
+              "value": "0173-1#05-AAA480#003"
+            }
+          ]
+        },
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Positional deviation (±) when repeatedly moving to the same position."
+          },
+          {
+            "language": "ko",
+            "text": "같은 위치로 반복 이동할 때의 위치 편차(±)."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/PositionRepeatability/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

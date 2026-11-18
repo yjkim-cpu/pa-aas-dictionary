@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "WorkOrderNumber",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/WorkOrderNumber/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Work order number"
+          },
+          {
+            "language": "ko",
+            "text": "작업 지시 번호"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Number of the production work order."
+          },
+          {
+            "language": "ko",
+            "text": "생산 작업 지시의 번호."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

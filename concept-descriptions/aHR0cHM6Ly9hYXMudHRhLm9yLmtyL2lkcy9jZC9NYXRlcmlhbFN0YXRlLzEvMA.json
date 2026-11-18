@@ -1,0 +1,100 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MaterialState",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MaterialState/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Material state"
+          },
+          {
+            "language": "ko",
+            "text": "자재 상태"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "State of the material at the location."
+          },
+          {
+            "language": "ko",
+            "text": "해당 위치에 있는 자재의 상태."
+          }
+        ],
+        "valueList": {
+          "valueReferencePairs": [
+            {
+              "value": "0",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/0"
+                  }
+                ]
+              }
+            },
+            {
+              "value": "1",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/1"
+                  }
+                ]
+              }
+            },
+            {
+              "value": "2",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/2"
+                  }
+                ]
+              }
+            },
+            {
+              "value": "3",
+              "valueId": {
+                "type": "ExternalReference",
+                "keys": [
+                  {
+                    "type": "GlobalReference",
+                    "value": "https://aas.tta.or.kr/ids/cd/MaterialState/1/0/value/3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

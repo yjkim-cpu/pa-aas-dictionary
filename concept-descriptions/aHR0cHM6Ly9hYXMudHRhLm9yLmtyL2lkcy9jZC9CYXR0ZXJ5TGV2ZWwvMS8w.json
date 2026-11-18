@@ -1,0 +1,49 @@
+{
+  "category": "PROPERTY",
+  "idShort": "BatteryLevel",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/BatteryLevel/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Battery level"
+          },
+          {
+            "language": "ko",
+            "text": "배터리 잔량"
+          }
+        ],
+        "unit": "%",
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Current state of charge of the battery."
+          },
+          {
+            "language": "ko",
+            "text": "배터리의 현재 충전 잔량."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

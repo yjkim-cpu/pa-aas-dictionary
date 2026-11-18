@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "AmbientHumidityRange",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/AmbientHumidityRange/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Ambient humidity range"
+          },
+          {
+            "language": "ko",
+            "text": "주변 습도 범위"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Range of ambient humidity for normal operation."
+          },
+          {
+            "language": "ko",
+            "text": "설비가 정상 동작하는 주변 습도 범위."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

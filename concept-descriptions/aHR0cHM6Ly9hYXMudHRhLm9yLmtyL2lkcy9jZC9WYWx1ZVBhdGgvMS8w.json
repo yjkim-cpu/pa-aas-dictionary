@@ -1,0 +1,48 @@
+{
+  "category": "QUALIFIER_TYPE",
+  "idShort": "ValuePath",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/ValuePath/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Value path"
+          },
+          {
+            "language": "ko",
+            "text": "값 경로"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Qualifier giving the location of the value within a received message."
+          },
+          {
+            "language": "ko",
+            "text": "수신 메시지 안에서 값의 위치를 적는 한정자."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

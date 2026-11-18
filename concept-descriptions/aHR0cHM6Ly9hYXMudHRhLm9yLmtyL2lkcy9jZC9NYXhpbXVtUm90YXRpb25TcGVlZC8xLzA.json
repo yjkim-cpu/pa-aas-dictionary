@@ -1,0 +1,49 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MaximumRotationSpeed",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MaximumRotationSpeed/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Maximum rotation speed"
+          },
+          {
+            "language": "ko",
+            "text": "최대 회전 속도"
+          }
+        ],
+        "unit": "°/s",
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Maximum speed of rotational motion."
+          },
+          {
+            "language": "ko",
+            "text": "회전 동작의 최대 속도."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

@@ -1,0 +1,60 @@
+{
+  "category": "PROPERTY",
+  "idShort": "CycleTime",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/CycleTime/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Cycle time"
+          },
+          {
+            "language": "ko",
+            "text": "사이클 타임"
+          }
+        ],
+        "unit": "s",
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Elapsed time of one job cycle from start to end. The job is identified by the enclosing collection."
+          },
+          {
+            "language": "ko",
+            "text": "작업 한 주기(시작부터 종료까지)의 경과 시간. 어떤 작업인지는 상위 묶음(생산 사이클·마킹·이송·로봇 상태)으로 구분한다."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/CycleTime/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

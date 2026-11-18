@@ -1,0 +1,16 @@
+﻿symbol,unitId_eclass,unitId_iec62720,qudt,ucum,basis
+°C,0173-1#05-AAA567#004,0112/2///62720#UAA033,http://qudt.org/vocab/unit/DEG_C,Cel,vault KOSMO AASX(06_서보드라이브_r6) CD unitId
+mm,0173-1#05-AAA480#003,0112/2///62720#UAA862,http://qudt.org/vocab/unit/MilliM,mm,IDTA·ECLASS 'Semantic Transport ECLASS in AAS' 예시
+°,,,http://qudt.org/vocab/unit/DEG,deg,
+%,,,http://qudt.org/vocab/unit/PERCENT,%,
+A,,,http://qudt.org/vocab/unit/A,A,
+s,,,http://qudt.org/vocab/unit/SEC,s,
+W,,,http://qudt.org/vocab/unit/W,W,
+kg,,0112/2///62720#UAA594,http://qudt.org/vocab/unit/KiloGM,kg,
+rpm,,,http://qudt.org/vocab/unit/REV-PER-MIN,{rev}/min,
+kVA,,,http://qudt.org/vocab/unit/KiloV-A,kV.A,
+m/s,,,http://qudt.org/vocab/unit/M-PER-SEC,m/s,
+mm/s,,,http://qudt.org/vocab/unit/MilliM-PER-SEC,mm/s,
+°/s,,,http://qudt.org/vocab/unit/DEG-PER-SEC,deg/s,
+bar,,,http://qudt.org/vocab/unit/BAR,bar,
+ns,,,http://qudt.org/vocab/unit/NanoSEC,ns,시계열 레코드용(추정 단위)

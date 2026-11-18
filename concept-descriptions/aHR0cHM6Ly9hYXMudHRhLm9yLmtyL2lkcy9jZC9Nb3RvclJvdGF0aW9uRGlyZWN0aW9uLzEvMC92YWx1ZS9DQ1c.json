@@ -1,0 +1,38 @@
+{
+  "category": "VALUE",
+  "idShort": "MotorRotationDirection_Value_CCW",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0/value/CCW",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "counter-clockwise"
+          },
+          {
+            "language": "ko",
+            "text": "반시계 방향"
+          }
+        ],
+        "dataType": "STRING",
+        "value": "CCW",
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "IpAddress",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/IpAddress/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "IP address"
+          },
+          {
+            "language": "ko",
+            "text": "IP 주소"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "IP address of a device such as a PLC or robot controller."
+          },
+          {
+            "language": "ko",
+            "text": "장치(PLC·로봇 제어기 등)의 IP 주소."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

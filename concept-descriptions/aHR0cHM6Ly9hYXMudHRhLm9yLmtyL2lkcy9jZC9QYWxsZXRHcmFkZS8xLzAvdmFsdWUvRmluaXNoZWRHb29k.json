@@ -1,0 +1,38 @@
+{
+  "category": "VALUE",
+  "idShort": "PalletGrade_Value_FinishedGood",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/FinishedGood",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "finished good"
+          },
+          {
+            "language": "ko",
+            "text": "완제품"
+          }
+        ],
+        "dataType": "STRING",
+        "value": "FinishedGood",
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

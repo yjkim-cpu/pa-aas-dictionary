@@ -1,0 +1,59 @@
+{
+  "category": "PROPERTY",
+  "idShort": "ProductCode",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/ProductCode/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Product code"
+          },
+          {
+            "language": "ko",
+            "text": "제품 코드"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (compatible with the KOSMO reference model)",
+        "dataType": "STRING",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Internal item code or ERP management number."
+          },
+          {
+            "language": "ko",
+            "text": "내부 품목 코드 또는 ERP 관리 번호."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "https://www.smart-factory.kr/ids/cd/ProductCode/1/0"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

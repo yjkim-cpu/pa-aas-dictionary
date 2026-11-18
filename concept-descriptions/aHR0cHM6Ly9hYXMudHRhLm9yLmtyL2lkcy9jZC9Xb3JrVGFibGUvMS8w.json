@@ -1,0 +1,47 @@
+{
+  "category": "COLLECTION",
+  "idShort": "WorkTable",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/WorkTable/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Work table"
+          },
+          {
+            "language": "ko",
+            "text": "작업 테이블"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Work table collection."
+          },
+          {
+            "language": "ko",
+            "text": "작업·검사 테이블의 신호를 담는 묶음."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

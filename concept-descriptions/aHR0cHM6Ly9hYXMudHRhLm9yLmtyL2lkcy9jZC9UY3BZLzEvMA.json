@@ -1,0 +1,58 @@
+{
+  "category": "PROPERTY",
+  "idShort": "TcpY",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/TcpY/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "TCP Y position"
+          },
+          {
+            "language": "ko",
+            "text": "TCP Y 위치"
+          }
+        ],
+        "unit": "mm",
+        "unitId": {
+          "type": "ExternalReference",
+          "keys": [
+            {
+              "type": "GlobalReference",
+              "value": "0173-1#05-AAA480#003"
+            }
+          ]
+        },
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Y position of the tool centre point in the robot base frame."
+          },
+          {
+            "language": "ko",
+            "text": "로봇 기준 좌표계에서 도구 중심점의 Y 위치."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

@@ -1,0 +1,47 @@
+{
+  "category": "COLLECTION",
+  "idShort": "Transfer",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/Transfer/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Transfer"
+          },
+          {
+            "language": "ko",
+            "text": "물류 이송"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Transfer collection."
+          },
+          {
+            "language": "ko",
+            "text": "이송 이벤트·수량 정보를 담는 묶음."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

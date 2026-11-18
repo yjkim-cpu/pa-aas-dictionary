@@ -1,0 +1,38 @@
+{
+  "category": "VALUE",
+  "idShort": "PalletGrade_Value_Unknown",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/Unknown",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "unknown"
+          },
+          {
+            "language": "ko",
+            "text": "미확인"
+          }
+        ],
+        "dataType": "STRING",
+        "value": "Unknown",
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

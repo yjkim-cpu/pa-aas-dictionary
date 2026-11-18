@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "RobotRemoteModeSelected",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/RobotRemoteModeSelected/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Robot remote mode selected"
+          },
+          {
+            "language": "ko",
+            "text": "로봇 원격 모드"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Output indicating that the robot controller is in remote mode."
+          },
+          {
+            "language": "ko",
+            "text": "로봇 제어기가 원격 모드로 선택됐음을 나타내는 출력."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

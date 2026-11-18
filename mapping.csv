@@ -1,0 +1,541 @@
+﻿source_id,source_origin,element_type,dict_idShort,dict_id,place_note
+https://www.smart-factory.kr/ids/cd/AmbientHumidityRange/1/0,KOSMO 경로(공개본에 없음),Property,AmbientHumidityRange,https://aas.tta.or.kr/ids/cd/AmbientHumidityRange/1/0,
+https://www.smart-factory.kr/ids/cd/ApplicableControllers/1/0,KOSMO 경로(공개본에 없음),Property,ApplicableControllers,https://aas.tta.or.kr/ids/cd/ApplicableControllers/1/0,
+https://www.smart-factory.kr/ids/cd/DegreeOfProtection/1/0,KOSMO 경로(공개본에 없음),Property,DegreeOfProtection,https://aas.tta.or.kr/ids/cd/DegreeOfProtection/1/0,
+https://www.smart-factory.kr/ids/cd/DownTime/1/0,KOSMO 경로(공개본에 없음),Property,AlarmTime,https://aas.tta.or.kr/ids/cd/AlarmTime/1/0,
+https://www.smart-factory.kr/ids/cd/EquipmentStateType/1/0,KOSMO 경로(공개본에 없음),Property,RunState,https://aas.tta.or.kr/ids/cd/RunState/1/0,
+https://www.smart-factory.kr/ids/cd/HorizontalReach/1/0,KOSMO 경로(공개본에 없음),Property,HorizontalReach,https://aas.tta.or.kr/ids/cd/HorizontalReach/1/0,
+https://www.smart-factory.kr/ids/cd/IdleTime/1/0,KOSMO 경로(공개본에 없음),Property,IdleTime,https://aas.tta.or.kr/ids/cd/IdleTime/1/0,
+https://www.smart-factory.kr/ids/cd/MaximumPayload/1/0,KOSMO 경로(공개본에 없음),Property,MaximumPayload,https://aas.tta.or.kr/ids/cd/MaximumPayload/1/0,
+https://www.smart-factory.kr/ids/cd/MaximumReach/1/0,KOSMO 경로(공개본에 없음),Property,MaximumReach,https://aas.tta.or.kr/ids/cd/MaximumReach/1/0,
+https://www.smart-factory.kr/ids/cd/MaximumRotationSpeed/1/0,KOSMO 경로(공개본에 없음),Property,MaximumRotationSpeed,https://aas.tta.or.kr/ids/cd/MaximumRotationSpeed/1/0,
+https://www.smart-factory.kr/ids/cd/MaximumTravelSpeed/1/0,KOSMO 경로(공개본에 없음),Property,MaximumTravelSpeed,https://aas.tta.or.kr/ids/cd/MaximumTravelSpeed/1/0,
+https://www.smart-factory.kr/ids/cd/MountingOrientation/1/0,KOSMO 경로(공개본에 없음),Property,MountingOrientation,https://aas.tta.or.kr/ids/cd/MountingOrientation/1/0,
+https://www.smart-factory.kr/ids/cd/OperatingTemperatureMax/1/0,KOSMO 경로(공개본에 없음),Property,OperatingTemperatureMax,https://aas.tta.or.kr/ids/cd/OperatingTemperatureMax/1/0,
+https://www.smart-factory.kr/ids/cd/OperatingTemperatureMin/1/0,KOSMO 경로(공개본에 없음),Property,OperatingTemperatureMin,https://aas.tta.or.kr/ids/cd/OperatingTemperatureMin/1/0,
+https://www.smart-factory.kr/ids/cd/OperationTime/1/0,KOSMO 경로(공개본에 없음),Property,RunTime,https://aas.tta.or.kr/ids/cd/RunTime/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActBatteryLevel/1/0,KOSMO 경로(공개본에 없음),Property,BatteryLevel,https://aas.tta.or.kr/ids/cd/BatteryLevel/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActMotorTemperature/1/0,KOSMO 경로(공개본에 없음),Property,MotorTemperature,https://aas.tta.or.kr/ids/cd/MotorTemperature/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActNavigationStatus/1/0,KOSMO 경로(공개본에 없음),Property,NavigationStatus,https://aas.tta.or.kr/ids/cd/NavigationStatus/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActPositionX/1/0,KOSMO 경로(공개본에 없음),Property,MobileRobotPositionX,https://aas.tta.or.kr/ids/cd/MobileRobotPositionX/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActPositionY/1/0,KOSMO 경로(공개본에 없음),Property,MobileRobotPositionY,https://aas.tta.or.kr/ids/cd/MobileRobotPositionY/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/ActTheta/1/0,KOSMO 경로(공개본에 없음),Property,MobileRobotHeading,https://aas.tta.or.kr/ids/cd/MobileRobotHeading/1/0,
+https://www.smart-factory.kr/ids/cd/OperationalData/Actual/1/0,KOSMO 경로(공개본에 없음),SubmodelElementCollection,ActualOperationalData,https://aas.tta.or.kr/ids/cd/ActualOperationalData/1/0,
+https://www.smart-factory.kr/ids/cd/PowerRequirements/1/0,KOSMO 경로(공개본에 없음),Property,PowerRequirement,https://aas.tta.or.kr/ids/cd/PowerRequirement/1/0,
+https://www.smart-factory.kr/ids/cd/PresentOperationMode/1/0,KOSMO 경로(공개본에 없음),Property,OperatingMode,https://aas.tta.or.kr/ids/cd/OperatingMode/1/0,
+https://www.smart-factory.kr/ids/cd/RobotMass/1/0,KOSMO 경로(공개본에 없음),Property,RobotMass,https://aas.tta.or.kr/ids/cd/RobotMass/1/0,
+https://www.smart-factory.kr/ids/cd/RotationDirection/1/0,KOSMO 경로(공개본에 없음),Property,MotorRotationDirection,https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0,
+https://www.smart-factory.kr/ids/cd/TypicalPowerConsumption/1/0,KOSMO 경로(공개본에 없음),Property,TypicalPowerConsumption,https://aas.tta.or.kr/ids/cd/TypicalPowerConsumption/1/0,
+https://www.smart-factory.kr/ids/cd/VehicleMass/1/0,KOSMO 경로(공개본에 없음),Property,VehicleMass,https://aas.tta.or.kr/ids/cd/VehicleMass/1/0,
+https://www.smart-factory.kr/ids/cd/VerticalReach/1/0,KOSMO 경로(공개본에 없음),Property,VerticalReach,https://aas.tta.or.kr/ids/cd/VerticalReach/1/0,
+https://www.smart-factory.kr/ids/cd/WorkorderNumber/1/0,KOSMO 경로(공개본에 없음),Property,WorkOrderNumber,https://aas.tta.or.kr/ids/cd/WorkOrderNumber/1/0,
+https://www.smart-factory.kr/ids/cd/ActOperationData/1/0,KOSMO 공개본,SubmodelElementCollection,ActualOperationalData,https://aas.tta.or.kr/ids/cd/ActualOperationalData/1/0,
+https://www.smart-factory.kr/ids/cd/AirPressure/1/0,KOSMO 공개본,Property,ProcessAirPressure,https://aas.tta.or.kr/ids/cd/ProcessAirPressure/1/0,
+https://www.smart-factory.kr/ids/cd/Alarm/1/0,KOSMO 공개본,SubmodelElementCollection,Alarm,https://aas.tta.or.kr/ids/cd/Alarm/1/0,
+https://www.smart-factory.kr/ids/cd/Alarm/1/0,KOSMO 공개본,Property,Alarm,https://aas.tta.or.kr/ids/cd/Alarm/1/0,
+https://www.smart-factory.kr/ids/cd/AlarmCode/1/0,KOSMO 공개본,Property,AlarmCode,https://aas.tta.or.kr/ids/cd/AlarmCode/1/0,
+https://www.smart-factory.kr/ids/cd/Axes/1/0,KOSMO 공개본,SubmodelElementCollection,RobotAxes,https://aas.tta.or.kr/ids/cd/RobotAxes/1/0,
+https://www.smart-factory.kr/ids/cd/Axis/1/0,KOSMO 공개본,SubmodelElementCollection,RobotAxis,https://aas.tta.or.kr/ids/cd/RobotAxis/1/0,축 번호는 요소 이름
+https://www.smart-factory.kr/ids/cd/BodyHeight/1/0,KOSMO 공개본,Property,BodyHeight,https://aas.tta.or.kr/ids/cd/BodyHeight/1/0,
+https://www.smart-factory.kr/ids/cd/BodyLength/1/0,KOSMO 공개본,Property,BodyLength,https://aas.tta.or.kr/ids/cd/BodyLength/1/0,
+https://www.smart-factory.kr/ids/cd/BodyWidth/1/0,KOSMO 공개본,Property,BodyWidth,https://aas.tta.or.kr/ids/cd/BodyWidth/1/0,
+https://www.smart-factory.kr/ids/cd/CycleTime/1/0,KOSMO 공개본,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,
+https://www.smart-factory.kr/ids/cd/EquipmentState/1/0,KOSMO 공개본,Property,EquipmentState,https://aas.tta.or.kr/ids/cd/EquipmentState/1/0,
+https://www.smart-factory.kr/ids/cd/IpRating/1/0,KOSMO 공개본,Property,DegreeOfProtection,https://aas.tta.or.kr/ids/cd/DegreeOfProtection/1/0,
+https://www.smart-factory.kr/ids/cd/JointAngle/1/0,KOSMO 공개본,Property,JointAngle,https://aas.tta.or.kr/ids/cd/JointAngle/1/0,
+https://www.smart-factory.kr/ids/cd/JointTemperature/1/0,KOSMO 공개본,Property,JointTemperature,https://aas.tta.or.kr/ids/cd/JointTemperature/1/0,
+https://www.smart-factory.kr/ids/cd/LightCurtain/1/0,KOSMO 공개본,Property,LightCurtain,https://aas.tta.or.kr/ids/cd/LightCurtain/1/0,
+https://www.smart-factory.kr/ids/cd/MotorCurrent/1/0,KOSMO 공개본,Property,MotorCurrent,https://aas.tta.or.kr/ids/cd/MotorCurrent/1/0,
+https://www.smart-factory.kr/ids/cd/NumberOfAxes/1/0,KOSMO 공개본,Property,NumberOfAxes,https://aas.tta.or.kr/ids/cd/NumberOfAxes/1/0,
+https://www.smart-factory.kr/ids/cd/PositionRepeatability/1/0,KOSMO 공개본,Property,PositionRepeatability,https://aas.tta.or.kr/ids/cd/PositionRepeatability/1/0,
+https://www.smart-factory.kr/ids/cd/PowerConsumption/1/0,KOSMO 공개본,Property,TypicalPowerConsumption,https://aas.tta.or.kr/ids/cd/TypicalPowerConsumption/1/0,
+https://www.smart-factory.kr/ids/cd/ProductCode/1/0,KOSMO 공개본,Property,ProductCode,https://aas.tta.or.kr/ids/cd/ProductCode/1/0,
+https://www.smart-factory.kr/ids/cd/ProductType/1/0,KOSMO 공개본,Property,ProductType,https://aas.tta.or.kr/ids/cd/ProductType/1/0,
+https://www.smart-factory.kr/ids/cd/Reach/1/0,KOSMO 공개본,Property,MaximumReach,https://aas.tta.or.kr/ids/cd/MaximumReach/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AlarmErrorReset/1/0,전북대 자체,Property,RobotAlarmReset,https://aas.tta.or.kr/ids/cd/RobotAlarmReset/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AlarmState/1/0,전북대 자체,Property,AlarmState,https://aas.tta.or.kr/ids/cd/AlarmState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AlarmTimeType/1/0,전북대 자체,Property,OperatingTimeType,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0,고정 상수(1 가동·2 대기·3 알람)
+https://facos.jbnu.ac.kr/ids/cd/AmrBattery/1/0,전북대 자체,Property,BatteryLevel,https://aas.tta.or.kr/ids/cd/BatteryLevel/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrDock/1/0,전북대 자체,SubmodelElementCollection,MobileRobotDocking,https://aas.tta.or.kr/ids/cd/MobileRobotDocking/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrGoal/1/0,전북대 자체,Property,MobileRobotTargetStation,https://aas.tta.or.kr/ids/cd/MobileRobotTargetStation/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrPallet/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/AmrPosition/1/0,전북대 자체,Property,MobileRobotPositionState,https://aas.tta.or.kr/ids/cd/MobileRobotPositionState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrSpeed/1/0,전북대 자체,Property,TravelSpeed,https://aas.tta.or.kr/ids/cd/TravelSpeed/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrStart/1/0,전북대 자체,Property,MobileRobotStartStation,https://aas.tta.or.kr/ids/cd/MobileRobotStartStation/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrTheta/1/0,전북대 자체,Property,MobileRobotHeading,https://aas.tta.or.kr/ids/cd/MobileRobotHeading/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrX/1/0,전북대 자체,Property,MobileRobotPositionX,https://aas.tta.or.kr/ids/cd/MobileRobotPositionX/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AmrY/1/0,전북대 자체,Property,MobileRobotPositionY,https://aas.tta.or.kr/ids/cd/MobileRobotPositionY/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AssemblyCycleTime/1/0,전북대 자체,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,"작업 종류는 상위 묶음, 로봇 번호는 요소 이름"
+https://facos.jbnu.ac.kr/ids/cd/AssemblyWaitLift/1/0,전북대 자체,SubmodelElementCollection,Lift,https://aas.tta.or.kr/ids/cd/Lift/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AssemblyZPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/AssemblyprocessTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Auto/1/0,전북대 자체,Property,CommandAuto,https://aas.tta.or.kr/ids/cd/CommandAuto/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AxisCount/1/0,전북대 자체,Property,NumberOfAxes,https://aas.tta.or.kr/ids/cd/NumberOfAxes/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AxisType/1/0,전북대 자체,Property,AxisTypeCode,https://aas.tta.or.kr/ids/cd/AxisTypeCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/AxisXDrive/1/0,전북대 자체,Property,AxisDriveOn,https://aas.tta.or.kr/ids/cd/AxisDriveOn/1/0,축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/AxisXOn/1/0,전북대 자체,Property,AxisDriveOn,https://aas.tta.or.kr/ids/cd/AxisDriveOn/1/0,축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/AxisYOn/1/0,전북대 자체,Property,AxisDriveOn,https://aas.tta.or.kr/ids/cd/AxisDriveOn/1/0,축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/AxisYZDrive/1/0,전북대 자체,Property,AxisDriveOn,https://aas.tta.or.kr/ids/cd/AxisDriveOn/1/0,축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/AxisZOn/1/0,전북대 자체,Property,AxisDriveOn,https://aas.tta.or.kr/ids/cd/AxisDriveOn/1/0,축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/BoltTable/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/BroachCylinder/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/BroachingPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/BroachingProcessOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/BroachingTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/BroachingTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/BroachingTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/BroachingTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Buffer1/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Buffer1/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Buffer2/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Buffer2/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/Buffer3/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Buffer3/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/Buffer4/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/Buffer5/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/BufferEvents/1/0,전북대 자체,SubmodelElementCollection,StorageEvents,https://aas.tta.or.kr/ids/cd/StorageEvents/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Buzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Camera/1/0,전북대 자체,SubmodelElementCollection,Camera,https://aas.tta.or.kr/ids/cd/Camera/1/0,
+https://facos.jbnu.ac.kr/ids/cd/CameraModel/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Carrier/1/0,전북대 자체,SubmodelElementCollection,TransferUnit,https://aas.tta.or.kr/ids/cd/TransferUnit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/CartWord/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/CaseChuck/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/CenterLower/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/CenterMiddle/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/CenterUpper/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Centering/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/CharacterConfirm/1/0,전북대 자체,Property,MarkerCharacterConfirm,https://aas.tta.or.kr/ids/cd/MarkerCharacterConfirm/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Clamp/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ClampCount/1/0,전북대 자체,Property,ClampCount,https://aas.tta.or.kr/ids/cd/ClampCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ClampLeft/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ClampRear/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ClampRight/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ColumnCount/1/0,전북대 자체,Property,ColumnCount,https://aas.tta.or.kr/ids/cd/ColumnCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Command/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Command/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ03/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ04/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ05/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ08/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ09/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Command_EQ13/1/0,전북대 자체,SubmodelElementCollection,ControlCommand,https://aas.tta.or.kr/ids/cd/ControlCommand/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Confirmed/1/0,전북대 자체,Property,MarkerConfirmed,https://aas.tta.or.kr/ids/cd/MarkerConfirmed/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ControllerModel/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ConveyorCount/1/0,전북대 자체,Property,ConveyorCount,https://aas.tta.or.kr/ids/cd/ConveyorCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/CountDone/1/0,전북대 자체,Property,ScrewdriverCountDone,https://aas.tta.or.kr/ids/cd/ScrewdriverCountDone/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Cycle/1/0,전북대 자체,SubmodelElementCollection,ProductionCycle,https://aas.tta.or.kr/ids/cd/ProductionCycle/1/0,
+https://facos.jbnu.ac.kr/ids/cd/CycleTime1/1/0,전북대 자체,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,"작업 종류는 상위 묶음, 로봇 번호는 요소 이름"
+https://facos.jbnu.ac.kr/ids/cd/CycleTime2/1/0,전북대 자체,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,"작업 종류는 상위 묶음, 로봇 번호는 요소 이름"
+https://facos.jbnu.ac.kr/ids/cd/CylinderCount/1/0,전북대 자체,Property,CylinderCount,https://aas.tta.or.kr/ids/cd/CylinderCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Cylinder_Down1/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Cylinder_Down2/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Date/1/0,전북대 자체,Property,StorageDate,https://aas.tta.or.kr/ids/cd/StorageDate/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DeburringAndLaserMarkingTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/DeburringAndLaserMarkingTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/DeburringAndLaserMarkingTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/DeburringAndLaserMarkingTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Direction/1/0,전북대 자체,Property,IoDirection,https://aas.tta.or.kr/ids/cd/IoDirection/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DischargeDoor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/DistanceLaserReady/1/0,전북대 자체,Property,MarkerDistanceLaserReady,https://aas.tta.or.kr/ids/cd/MarkerDistanceLaserReady/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DoorLamp/1/0,전북대 자체,Property,SafetyDoorLamp,https://aas.tta.or.kr/ids/cd/SafetyDoorLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/DoorSensor2/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/DoorSensorOpCl/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Drive/1/0,전북대 자체,SubmodelElementCollection,DriveUnit,https://aas.tta.or.kr/ids/cd/DriveUnit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DriveType/1/0,전북대 자체,Property,DriveType,https://aas.tta.or.kr/ids/cd/DriveType/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Driver/1/0,전북대 자체,SubmodelElementCollection,Screwdriver,https://aas.tta.or.kr/ids/cd/Screwdriver/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DriverController/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/DriverLock/1/0,전북대 자체,Property,ScrewdriverLock,https://aas.tta.or.kr/ids/cd/ScrewdriverLock/1/0,
+https://facos.jbnu.ac.kr/ids/cd/DriverModel/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Dry/1/0,전북대 자체,Property,CommandDry,https://aas.tta.or.kr/ids/cd/CommandDry/1/0,
+https://facos.jbnu.ac.kr/ids/cd/EMO/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/EffectiveLoad/1/0,전북대 자체,Property,EffectiveLoadRatio,https://aas.tta.or.kr/ids/cd/EffectiveLoadRatio/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ElectricalPanelDoorSensor/1/0,전북대 자체,Property,ElectricalPanelDoorSensor,https://aas.tta.or.kr/ids/cd/ElectricalPanelDoorSensor/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Encoder/1/0,전북대 자체,Property,MarkerEncoderInput,https://aas.tta.or.kr/ids/cd/MarkerEncoderInput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/EndEffector/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/EndStopper/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Error/1/0,전북대 자체,Property,DeviceError,https://aas.tta.or.kr/ids/cd/DeviceError/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ErrorReset/1/0,전북대 자체,Property,ErrorResetInput,https://aas.tta.or.kr/ids/cd/ErrorResetInput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ExpectedCurrent/1/0,전북대 자체,Property,ExpectedMotorCurrent,https://aas.tta.or.kr/ids/cd/ExpectedMotorCurrent/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ExternalStart/1/0,전북대 자체,Property,RobotExternalStart,https://aas.tta.or.kr/ids/cd/RobotExternalStart/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Fan/1/0,전북대 자체,SubmodelElementCollection,Fan,https://aas.tta.or.kr/ids/cd/Fan/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FanCount/1/0,전북대 자체,Property,FanCount,https://aas.tta.or.kr/ids/cd/FanCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FanOn/1/0,전북대 자체,Property,MotorRunning,https://aas.tta.or.kr/ids/cd/MotorRunning/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FasteningOk/1/0,전북대 자체,Property,FasteningOK,https://aas.tta.or.kr/ids/cd/FasteningOK/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FeedAir/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/FeedMotor/1/0,전북대 자체,Property,MotorRotationDirection,https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0,구동 축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/FeedWaitLift/1/0,전북대 자체,SubmodelElementCollection,Lift,https://aas.tta.or.kr/ids/cd/Lift/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Feeder/1/0,전북대 자체,SubmodelElementCollection,BoltFeeder,https://aas.tta.or.kr/ids/cd/BoltFeeder/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FeederManufacturer/1/0,전북대 자체,Property,ComponentManufacturer,https://aas.tta.or.kr/ids/cd/ComponentManufacturer/1/0,
+https://facos.jbnu.ac.kr/ids/cd/FeederModel/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/FeedingFrontDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/FeedingProcessPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FeedingRearDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/FeedingTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FeedingTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FeedingTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FeedingTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseMainPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinishedGoodsWarehouseTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/FinsPort/1/0,전북대 자체,Property,CommunicationPort,https://aas.tta.or.kr/ids/cd/CommunicationPort/1/0,FINS/UDP 포트
+https://facos.jbnu.ac.kr/ids/cd/FullFlag/1/0,전북대 자체,Property,StorageFull,https://aas.tta.or.kr/ids/cd/StorageFull/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Gauge/1/0,전북대 자체,SubmodelElementCollection,Gauge,https://aas.tta.or.kr/ids/cd/Gauge/1/0,
+https://facos.jbnu.ac.kr/ids/cd/GaugeChannels/1/0,전북대 자체,Property,GaugeChannelCount,https://aas.tta.or.kr/ids/cd/GaugeChannelCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Gpio/1/0,전북대 자체,SubmodelElementCollection,IoImage,https://aas.tta.or.kr/ids/cd/IoImage/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Gpio_EQ03/1/0,전북대 자체,SubmodelElementCollection,IoImage,https://aas.tta.or.kr/ids/cd/IoImage/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Gpio_EQ04/1/0,전북대 자체,SubmodelElementCollection,IoImage,https://aas.tta.or.kr/ids/cd/IoImage/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Gpio_EQ08/1/0,전북대 자체,SubmodelElementCollection,IoImage,https://aas.tta.or.kr/ids/cd/IoImage/1/0,설비 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Green/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Gripper/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/GripperPallet/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/GuideCylinder/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/GuideFront/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/GuideLeft/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/GuideMiddle/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/GuideRight/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/HTable/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/HandleClamp/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/HandleSensor/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/HandleTableLeft/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/HandleTableRight/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Head/1/0,전북대 자체,SubmodelElementCollection,TransferHead,https://aas.tta.or.kr/ids/cd/TransferHead/1/0,
+https://facos.jbnu.ac.kr/ids/cd/HeadPalletPresent/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/HeadPhoto/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Home/1/0,전북대 자체,Property,CommandHome,https://aas.tta.or.kr/ids/cd/CommandHome/1/0,
+https://facos.jbnu.ac.kr/ids/cd/IdleTimeType/1/0,전북대 자체,Property,OperatingTimeType,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0,고정 상수(1 가동·2 대기·3 알람)
+https://facos.jbnu.ac.kr/ids/cd/ImageCode/1/0,전북대 자체,Property,VisionImageCode,https://aas.tta.or.kr/ids/cd/VisionImageCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/In/1/0,전북대 자체,SubmodelElementCollection,StorageInEvent,https://aas.tta.or.kr/ids/cd/StorageInEvent/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Inspection/1/0,전북대 자체,SubmodelElementCollection,Inspection,https://aas.tta.or.kr/ids/cd/Inspection/1/0,
+https://facos.jbnu.ac.kr/ids/cd/InspectionCode/1/0,전북대 자체,Property,InspectionCode,https://aas.tta.or.kr/ids/cd/InspectionCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/InspectionTable/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/IoModules/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/IpAddress/1/0,전북대 자체,Property,IpAddress,https://aas.tta.or.kr/ids/cd/IpAddress/1/0,장치 종류는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/JobChangeReady/1/0,전북대 자체,Property,MarkerJobChangeReady,https://aas.tta.or.kr/ids/cd/MarkerJobChangeReady/1/0,
+https://facos.jbnu.ac.kr/ids/cd/JobEvent/1/0,전북대 자체,Property,ProductionEvent,https://aas.tta.or.kr/ids/cd/ProductionEvent/1/0,작업 종류는 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/JobNoConfirm/1/0,전북대 자체,Property,MarkerJobNoConfirm,https://aas.tta.or.kr/ids/cd/MarkerJobNoConfirm/1/0,
+https://facos.jbnu.ac.kr/ids/cd/KepwareChannel/1/0,전북대 자체,Property,GatewayChannel,https://aas.tta.or.kr/ids/cd/GatewayChannel/1/0,
+https://facos.jbnu.ac.kr/ids/cd/KepwareEndpoint/1/0,전북대 자체,Property,OpcUaEndpoint,https://aas.tta.or.kr/ids/cd/OpcUaEndpoint/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Kona/1/0,전북대 자체,SubmodelElementCollection,ProcessGroup,https://aas.tta.or.kr/ids/cd/ProcessGroup/1/0,제품(코나)은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/KonaHandle/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/KonaRows/1/0,전북대 자체,Property,RowCount,https://aas.tta.or.kr/ids/cd/RowCount/1/0,제품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/KonaStore/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/LaneCount/1/0,전북대 자체,Property,LaneCount,https://aas.tta.or.kr/ids/cd/LaneCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LaserExcited/1/0,전북대 자체,Property,MarkerLaserExcited,https://aas.tta.or.kr/ids/cd/MarkerLaserExcited/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LeftElectricalPanelDoorSensor/1/0,전북대 자체,Property,ElectricalPanelDoorSensor,https://aas.tta.or.kr/ids/cd/ElectricalPanelDoorSensor/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LeftLower/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LeftMiddle/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LeftUpper/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LeftUpperDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Lift/1/0,전북대 자체,SubmodelElementCollection,Lift,https://aas.tta.or.kr/ids/cd/Lift/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LiftCount/1/0,전북대 자체,Property,LiftCount,https://aas.tta.or.kr/ids/cd/LiftCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LiftCylinder/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LiftCylinder/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Light/1/0,전북대 자체,Property,LightingOn,https://aas.tta.or.kr/ids/cd/LightingOn/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Light1/1/0,전북대 자체,Property,LightingOn,https://aas.tta.or.kr/ids/cd/LightingOn/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Light2/1/0,전북대 자체,Property,LightingOn,https://aas.tta.or.kr/ids/cd/LightingOn/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LightCount/1/0,전북대 자체,Property,LightCount,https://aas.tta.or.kr/ids/cd/LightCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LightCurtainAuxiliaryOutputPnp/1/0,전북대 자체,Property,LightCurtainAuxOutput,https://aas.tta.or.kr/ids/cd/LightCurtainAuxOutput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LightCurtainMutingAPnp/1/0,전북대 자체,Property,LightCurtainMuting,https://aas.tta.or.kr/ids/cd/LightCurtainMuting/1/0,A·B는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LightCurtainMutingBPnp/1/0,전북대 자체,Property,LightCurtainMuting,https://aas.tta.or.kr/ids/cd/LightCurtainMuting/1/0,A·B는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LightCurtainResetPnp/1/0,전북대 자체,Property,LightCurtainReset,https://aas.tta.or.kr/ids/cd/LightCurtainReset/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LightCurtainTestPnp/1/0,전북대 자체,Property,LightCurtainTest,https://aas.tta.or.kr/ids/cd/LightCurtainTest/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Lighting/1/0,전북대 자체,SubmodelElementCollection,Lighting,https://aas.tta.or.kr/ids/cd/Lighting/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LimitLeft/1/0,전북대 자체,Property,LimitSwitch,https://aas.tta.or.kr/ids/cd/LimitSwitch/1/0,좌·우는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LimitRight/1/0,전북대 자체,Property,LimitSwitch,https://aas.tta.or.kr/ids/cd/LimitSwitch/1/0,좌·우는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LineId/1/0,전북대 자체,Property,LineId,https://aas.tta.or.kr/ids/cd/LineId/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Load/1/0,전북대 자체,Property,JointLoadRatio,https://aas.tta.or.kr/ids/cd/JointLoadRatio/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LowerConveyor/1/0,전북대 자체,SubmodelElementCollection,Conveyor,https://aas.tta.or.kr/ids/cd/Conveyor/1/0,상·하는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LowerElectricalPanelDoorSensor/1/0,전북대 자체,Property,ElectricalPanelDoorSensor,https://aas.tta.or.kr/ids/cd/ElectricalPanelDoorSensor/1/0,
+https://facos.jbnu.ac.kr/ids/cd/LowerGuide/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/LowerLimit/1/0,전북대 자체,Property,InspectionLowerLimit,https://aas.tta.or.kr/ids/cd/InspectionLowerLimit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Manual/1/0,전북대 자체,Property,CommandManual,https://aas.tta.or.kr/ids/cd/CommandManual/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ManualCode/1/0,전북대 자체,Property,SiteCellLabel,https://aas.tta.or.kr/ids/cd/SiteCellLabel/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkPosition/1/0,전북대 자체,Property,MarkingPosition,https://aas.tta.or.kr/ids/cd/MarkingPosition/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkerCode/1/0,전북대 자체,Property,MarkerCode,https://aas.tta.or.kr/ids/cd/MarkerCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkerCommand/1/0,전북대 자체,SubmodelElementCollection,MarkerIo,https://aas.tta.or.kr/ids/cd/MarkerIo/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkerIoBits/1/0,전북대 자체,Property,MarkerIoBitCount,https://aas.tta.or.kr/ids/cd/MarkerIoBitCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkerModel/1/0,전북대 자체,Property,ComponentModel,https://aas.tta.or.kr/ids/cd/ComponentModel/1/0,구성품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MarkerStatus/1/0,전북대 자체,SubmodelElementCollection,MarkerIo,https://aas.tta.or.kr/ids/cd/MarkerIo/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Marking/1/0,전북대 자체,SubmodelElementCollection,MarkingJob,https://aas.tta.or.kr/ids/cd/MarkingJob/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MarkingCycleTime/1/0,전북대 자체,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,"작업 종류는 상위 묶음, 로봇 번호는 요소 이름"
+https://facos.jbnu.ac.kr/ids/cd/MarkingEvent/1/0,전북대 자체,Property,ProductionEvent,https://aas.tta.or.kr/ids/cd/ProductionEvent/1/0,작업 종류는 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Material/1/0,전북대 자체,SubmodelElementCollection,Material,https://aas.tta.or.kr/ids/cd/Material/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MaterialCode/1/0,전북대 자체,Property,MaterialCode,https://aas.tta.or.kr/ids/cd/MaterialCode/1/0,원자재 여부는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MaterialState/1/0,전북대 자체,Property,MaterialState,https://aas.tta.or.kr/ids/cd/MaterialState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Materials/1/0,전북대 자체,SubmodelElementCollection,Material,https://aas.tta.or.kr/ids/cd/Material/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MeasurePoint/1/0,전북대 자체,Property,MeasurementPointNumber,https://aas.tta.or.kr/ids/cd/MeasurementPointNumber/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MeasuredValue/1/0,전북대 자체,Property,InspectionMeasuredValue,https://aas.tta.or.kr/ids/cd/InspectionMeasuredValue/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Measuring/1/0,전북대 자체,Property,GaugeMeasuring,https://aas.tta.or.kr/ids/cd/GaugeMeasuring/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MiddleStopper/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Mirror/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MirrorBuffer1/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MirrorBuffer2/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MirrorSensor/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/MirrorTable/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Montrac/1/0,전북대 자체,SubmodelElementCollection,ShuttleStation,https://aas.tta.or.kr/ids/cd/ShuttleStation/1/0,몬트랙(Montratec) 정류장
+https://facos.jbnu.ac.kr/ids/cd/MotorForward/1/0,전북대 자체,Property,MotorForward,https://aas.tta.or.kr/ids/cd/MotorForward/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorOn/1/0,전북대 자체,Property,MotorRunning,https://aas.tta.or.kr/ids/cd/MotorRunning/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorPower/1/0,전북대 자체,Property,MotorPower,https://aas.tta.or.kr/ids/cd/MotorPower/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorReverse/1/0,전북대 자체,Property,MotorReverse,https://aas.tta.or.kr/ids/cd/MotorReverse/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorRun/1/0,전북대 자체,Property,MotorRunning,https://aas.tta.or.kr/ids/cd/MotorRunning/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorSpeed/1/0,전북대 자체,Property,MotorSpeed,https://aas.tta.or.kr/ids/cd/MotorSpeed/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MotorsOn/1/0,전북대 자체,Property,MotorRunning,https://aas.tta.or.kr/ids/cd/MotorRunning/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Moving/1/0,전북대 자체,Property,AxisMoving,https://aas.tta.or.kr/ids/cd/AxisMoving/1/0,
+https://facos.jbnu.ac.kr/ids/cd/MultiSequence/1/0,전북대 자체,Property,ScrewdriverMultiSequence,https://aas.tta.or.kr/ids/cd/ScrewdriverMultiSequence/1/0,
+https://facos.jbnu.ac.kr/ids/cd/NG/1/0,전북대 자체,Property,JudgementNG,https://aas.tta.or.kr/ids/cd/JudgementNG/1/0,
+https://facos.jbnu.ac.kr/ids/cd/NewOrderReady/1/0,전북대 자체,Property,OrderReady,https://aas.tta.or.kr/ids/cd/OrderReady/1/0,
+https://facos.jbnu.ac.kr/ids/cd/NgCode/1/0,전북대 자체,Property,DefectCode,https://aas.tta.or.kr/ids/cd/DefectCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Node00/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node01/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node02/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node03/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node04/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node05/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node06/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Node07/1/0,전북대 자체,SubmodelElementCollection,IoNode,https://aas.tta.or.kr/ids/cd/IoNode/1/0,노드 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/NodeType/1/0,전북대 자체,Property,IoNodeType,https://aas.tta.or.kr/ids/cd/IoNodeType/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OEE/1/0,전북대 자체,SubmodelElementCollection,OperatingInfo,https://aas.tta.or.kr/ids/cd/OperatingInfo/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OK/1/0,전북대 자체,Property,JudgementOK,https://aas.tta.or.kr/ids/cd/JudgementOK/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Occupancy/1/0,전북대 자체,SubmodelElementCollection,Occupancy,https://aas.tta.or.kr/ids/cd/Occupancy/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OccupancyBits/1/0,전북대 자체,SubmodelElementCollection,Occupancy,https://aas.tta.or.kr/ids/cd/Occupancy/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OccupancyRate/1/0,전북대 자체,Property,OccupancyRate,https://aas.tta.or.kr/ids/cd/OccupancyRate/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Occupied/1/0,전북대 자체,Property,SlotOccupied,https://aas.tta.or.kr/ids/cd/SlotOccupied/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OccupiedCount/1/0,전북대 자체,Property,OccupiedSlotCount,https://aas.tta.or.kr/ids/cd/OccupiedSlotCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OperatingTemperatureMax/1/0,전북대 자체,Property,OperatingTemperatureMax,https://aas.tta.or.kr/ids/cd/OperatingTemperatureMax/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OperatingTemperatureMin/1/0,전북대 자체,Property,OperatingTemperatureMin,https://aas.tta.or.kr/ids/cd/OperatingTemperatureMin/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OperatorPanel/1/0,전북대 자체,SubmodelElementCollection,OperatorPanel,https://aas.tta.or.kr/ids/cd/OperatorPanel/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Order/1/0,전북대 자체,SubmodelElementCollection,ProductionOrder,https://aas.tta.or.kr/ids/cd/ProductionOrder/1/0,
+https://facos.jbnu.ac.kr/ids/cd/OrderReceived/1/0,전북대 자체,Property,OrderReceived,https://aas.tta.or.kr/ids/cd/OrderReceived/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Out/1/0,전북대 자체,SubmodelElementCollection,StorageOutEvent,https://aas.tta.or.kr/ids/cd/StorageOutEvent/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PalletBuffer/1/0,전북대 자체,SubmodelElementCollection,Buffer,https://aas.tta.or.kr/ids/cd/Buffer/1/0,버퍼 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletFront/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletGrade/1/0,전북대 자체,Property,PalletGrade,https://aas.tta.or.kr/ids/cd/PalletGrade/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PalletId/1/0,전북대 자체,Property,PalletId,https://aas.tta.or.kr/ids/cd/PalletId/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PalletLeft/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletPresent/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletRear/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletRight/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletSensor/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletShuttle/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PalletStopper/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Pallets/1/0,전북대 자체,SubmodelElementCollection,PalletSensing,https://aas.tta.or.kr/ids/cd/PalletSensing/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PanelDoor/1/0,전북대 자체,Property,ElectricalPanelDoorSensor,https://aas.tta.or.kr/ids/cd/ElectricalPanelDoorSensor/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Photo1/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Photo2/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Photo3/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PhotoFront/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PhotoIn/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PhotoMirror/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PhotoOut/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PhotoRear/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PlanQuantity/1/0,전북대 자체,Property,PlanQuantity,https://aas.tta.or.kr/ids/cd/PlanQuantity/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PlcActions/1/0,전북대 자체,Property,PlcActions,https://aas.tta.or.kr/ids/cd/PlcActions/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PlcIp/1/0,전북대 자체,Property,IpAddress,https://aas.tta.or.kr/ids/cd/IpAddress/1/0,장치 종류는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PlcUnit/1/0,전북대 자체,Property,PlcUnit,https://aas.tta.or.kr/ids/cd/PlcUnit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Position/1/0,전북대 자체,Property,AxisPosition,https://aas.tta.or.kr/ids/cd/AxisPosition/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PositionCount/1/0,전북대 자체,Property,StoragePositionCount,https://aas.tta.or.kr/ids/cd/StoragePositionCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PresetSelect/1/0,전북대 자체,Property,ScrewdriverPresetSelect,https://aas.tta.or.kr/ids/cd/ScrewdriverPresetSelect/1/0,
+https://facos.jbnu.ac.kr/ids/cd/PressCylinder/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/PressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/PressureSwitch2/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/PrintDone/1/0,전북대 자체,Property,MarkerPrintDone,https://aas.tta.or.kr/ids/cd/MarkerPrintDone/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Printing/1/0,전북대 자체,Property,MarkerPrinting,https://aas.tta.or.kr/ids/cd/MarkerPrinting/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ProcessOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/ProductionEvent/1/0,전북대 자체,Property,ProductionEvent,https://aas.tta.or.kr/ids/cd/ProductionEvent/1/0,작업 종류는 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/ProductionSeq/1/0,전북대 자체,Property,ProductionSequence,https://aas.tta.or.kr/ids/cd/ProductionSequence/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ProductionState/1/0,전북대 자체,Property,ProductionState,https://aas.tta.or.kr/ids/cd/ProductionState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ProgramNo/1/0,전북대 자체,Property,MarkerProgramNumber,https://aas.tta.or.kr/ids/cd/MarkerProgramNumber/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RackCount/1/0,전북대 자체,Property,StoragePositionCount,https://aas.tta.or.kr/ids/cd/StoragePositionCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RackSlot/1/0,전북대 자체,SubmodelElementCollection,StorageSlot,https://aas.tta.or.kr/ids/cd/StorageSlot/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialCode/1/0,전북대 자체,Property,MaterialCode,https://aas.tta.or.kr/ids/cd/MaterialCode/1/0,원자재 여부는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseMainPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RawMaterialWarehouseTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Ready/1/0,전북대 자체,Property,DeviceReady,https://aas.tta.or.kr/ids/cd/DeviceReady/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionTowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionTowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionTowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RearCoreInspectionTowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Recall/1/0,전북대 자체,Property,GaugeRecall,https://aas.tta.or.kr/ids/cd/GaugeRecall/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RecipeCode/1/0,전북대 자체,Property,RecipeCode,https://aas.tta.or.kr/ids/cd/RecipeCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Red/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RegenerativeLoad/1/0,전북대 자체,Property,RegenerativeLoadRatio,https://aas.tta.or.kr/ids/cd/RegenerativeLoadRatio/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RemoteModeSelected/1/0,전북대 자체,Property,RobotRemoteModeSelected,https://aas.tta.or.kr/ids/cd/RobotRemoteModeSelected/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Reset/1/0,전북대 자체,Property,CommandReset,https://aas.tta.or.kr/ids/cd/CommandReset/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ResetSwitch/1/0,전북대 자체,Property,ResetSwitch,https://aas.tta.or.kr/ids/cd/ResetSwitch/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ResetSwitchLamp/1/0,전북대 자체,Property,ResetSwitchLamp,https://aas.tta.or.kr/ids/cd/ResetSwitchLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Result/1/0,전북대 자체,SubmodelElementCollection,ProductionResult,https://aas.tta.or.kr/ids/cd/ProductionResult/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Result/1/0,전북대 자체,Property,InspectionResult,https://aas.tta.or.kr/ids/cd/InspectionResult/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ResultCode/1/0,전북대 자체,Property,ProductionResultCode,https://aas.tta.or.kr/ids/cd/ProductionResultCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Reverse/1/0,전북대 자체,Property,MotorReverse,https://aas.tta.or.kr/ids/cd/MotorReverse/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RightElectricalPanelDoorSensor/1/0,전북대 자체,Property,ElectricalPanelDoorSensor,https://aas.tta.or.kr/ids/cd/ElectricalPanelDoorSensor/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RightLower/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RightMiddle/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RightPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/RightUpper/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RightUpperDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RobotCode/1/0,전북대 자체,Property,RobotCode,https://aas.tta.or.kr/ids/cd/RobotCode/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RobotIp/1/0,전북대 자체,Property,IpAddress,https://aas.tta.or.kr/ids/cd/IpAddress/1/0,장치 종류는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RobotMass/1/0,전북대 자체,Property,RobotMass,https://aas.tta.or.kr/ids/cd/RobotMass/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RobotStatus/1/0,전북대 자체,SubmodelElementCollection,RobotStatus,https://aas.tta.or.kr/ids/cd/RobotStatus/1/0,
+https://facos.jbnu.ac.kr/ids/cd/RowCount/1/0,전북대 자체,Property,RowCount,https://aas.tta.or.kr/ids/cd/RowCount/1/0,제품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/RunTimeType/1/0,전북대 자체,Property,OperatingTimeType,https://aas.tta.or.kr/ids/cd/OperatingTimeType/1/0,고정 상수(1 가동·2 대기·3 알람)
+https://facos.jbnu.ac.kr/ids/cd/Rx/1/0,전북대 자체,Property,TcpRx,https://aas.tta.or.kr/ids/cd/TcpRx/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Ry/1/0,전북대 자체,Property,TcpRy,https://aas.tta.or.kr/ids/cd/TcpRy/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Rz/1/0,전북대 자체,Property,TcpRz,https://aas.tta.or.kr/ids/cd/TcpRz/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SRV00/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SRV01/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SRV02/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SRV03/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SRV04/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Safety/1/0,전북대 자체,SubmodelElementCollection,SafetyIo,https://aas.tta.or.kr/ids/cd/SafetyIo/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ScrewEmpty/1/0,전북대 자체,Property,ScrewEmpty,https://aas.tta.or.kr/ids/cd/ScrewEmpty/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SelectBits/1/0,전북대 자체,Property,MarkerSelectBits,https://aas.tta.or.kr/ids/cd/MarkerSelectBits/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Sensor/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorA/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorAdvance/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorB/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorClose/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorCount/1/0,전북대 자체,Property,SensorCount,https://aas.tta.or.kr/ids/cd/SensorCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SensorDown/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorFront/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorLeft/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorOpen/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorRear/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorRetract/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorRight/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorState/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SensorUp/1/0,전북대 자체,Property,CylinderPositionSensor,https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0,끝 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Sensors/1/0,전북대 자체,SubmodelElementCollection,PalletSensing,https://aas.tta.or.kr/ids/cd/PalletSensing/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SensorsPerPosition/1/0,전북대 자체,Property,SensorsPerPosition,https://aas.tta.or.kr/ids/cd/SensorsPerPosition/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Sequence/1/0,전북대 자체,Property,StorageSequence,https://aas.tta.or.kr/ids/cd/StorageSequence/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ServedEquipment/1/0,전북대 자체,Property,ServedEquipmentId,https://aas.tta.or.kr/ids/cd/ServedEquipmentId/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ServoMotors/1/0,전북대 자체,Property,ServoMotorList,https://aas.tta.or.kr/ids/cd/ServoMotorList/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ServoOn/1/0,전북대 자체,Property,ServoOn,https://aas.tta.or.kr/ids/cd/ServoOn/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ShotPoint/1/0,전북대 자체,Property,VisionShotPoint,https://aas.tta.or.kr/ids/cd/VisionShotPoint/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Shuttle/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/ShuttleArrived/1/0,전북대 자체,Property,ShuttleArrived,https://aas.tta.or.kr/ids/cd/ShuttleArrived/1/0,
+https://facos.jbnu.ac.kr/ids/cd/ShuttlePallet/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SideCoreInspectionOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/SideCoreInspectionPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/SideMotor/1/0,전북대 자체,Property,MotorRotationDirection,https://aas.tta.or.kr/ids/cd/MotorRotationDirection/1/0,구동 축은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Signal/1/0,전북대 자체,Property,SafetyDoorLamp,https://aas.tta.or.kr/ids/cd/SafetyDoorLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SldAreaSelection1Pnp/1/0,전북대 자체,Property,SafetyScannerAreaSelect,https://aas.tta.or.kr/ids/cd/SafetyScannerAreaSelect/1/0,영역 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SldAreaSelection2Pnp/1/0,전북대 자체,Property,SafetyScannerAreaSelect,https://aas.tta.or.kr/ids/cd/SafetyScannerAreaSelect/1/0,영역 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SldAreaSelection3Pnp/1/0,전북대 자체,Property,SafetyScannerAreaSelect,https://aas.tta.or.kr/ids/cd/SafetyScannerAreaSelect/1/0,영역 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SldAreaSelection4Pnp/1/0,전북대 자체,Property,SafetyScannerAreaSelect,https://aas.tta.or.kr/ids/cd/SafetyScannerAreaSelect/1/0,영역 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SldAreaSelection5Pnp/1/0,전북대 자체,Property,SafetyScannerAreaSelect,https://aas.tta.or.kr/ids/cd/SafetyScannerAreaSelect/1/0,영역 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/SldNpnPnp/1/0,전북대 자체,Property,SafetyScannerAuxOutput,https://aas.tta.or.kr/ids/cd/SafetyScannerAuxOutput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SldNpnPnp2/1/0,전북대 자체,Property,SafetyScannerWarningOutput,https://aas.tta.or.kr/ids/cd/SafetyScannerWarningOutput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SldStandbyPnp/1/0,전북대 자체,Property,SafetyScannerStandby,https://aas.tta.or.kr/ids/cd/SafetyScannerStandby/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SldStartNpnB/1/0,전북대 자체,Property,SafetyScannerStart,https://aas.tta.or.kr/ids/cd/SafetyScannerStart/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SlotCount/1/0,전북대 자체,Property,StoragePositionCount,https://aas.tta.or.kr/ids/cd/StoragePositionCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SlotNo/1/0,전북대 자체,Property,SlotNumber,https://aas.tta.or.kr/ids/cd/SlotNumber/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SlotWord/1/0,전북대 자체,Property,SlotLoadState,https://aas.tta.or.kr/ids/cd/SlotLoadState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Slots/1/0,전북대 자체,SubmodelElementCollection,StorageSlots,https://aas.tta.or.kr/ids/cd/StorageSlots/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SpIn/1/0,전북대 자체,Property,GaugeSpInput,https://aas.tta.or.kr/ids/cd/GaugeSpInput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SpOut/1/0,전북대 자체,Property,GaugeSpOutput,https://aas.tta.or.kr/ids/cd/GaugeSpOutput/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Speed/1/0,전북대 자체,Property,JointSpeed,https://aas.tta.or.kr/ids/cd/JointSpeed/1/0,
+https://facos.jbnu.ac.kr/ids/cd/SpindleCount/1/0,전북대 자체,Property,SpindleCount,https://aas.tta.or.kr/ids/cd/SpindleCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Stage1Cylinder/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Stage2Cylinder/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Start/1/0,전북대 자체,Property,CommandStart,https://aas.tta.or.kr/ids/cd/CommandStart/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StartSwitch/1/0,전북대 자체,Property,StartSwitch,https://aas.tta.or.kr/ids/cd/StartSwitch/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StartSwitchLamp/1/0,전북대 자체,Property,StartSwitchLamp,https://aas.tta.or.kr/ids/cd/StartSwitchLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/State/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Status/1/0,전북대 자체,SubmodelElementCollection,EquipmentStatus,https://aas.tta.or.kr/ids/cd/EquipmentStatus/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Status/1/0,전북대 자체,Property,EquipmentState,https://aas.tta.or.kr/ids/cd/EquipmentState/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StepNo1/1/0,전북대 자체,Property,StepNumber,https://aas.tta.or.kr/ids/cd/StepNumber/1/0,스텝 순번은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/StepNo2/1/0,전북대 자체,Property,StepNumber,https://aas.tta.or.kr/ids/cd/StepNumber/1/0,스텝 순번은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/StepNo3/1/0,전북대 자체,Property,StepNumber,https://aas.tta.or.kr/ids/cd/StepNumber/1/0,스텝 순번은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/StepPlus/1/0,전북대 자체,Property,CommandStepPlus,https://aas.tta.or.kr/ids/cd/CommandStepPlus/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StepRun/1/0,전북대 자체,Property,CommandStepRun,https://aas.tta.or.kr/ids/cd/CommandStepRun/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Stock/1/0,전북대 자체,SubmodelElementCollection,Stock,https://aas.tta.or.kr/ids/cd/Stock/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Stock1/1/0,전북대 자체,Property,StockQuantity,https://aas.tta.or.kr/ids/cd/StockQuantity/1/0,자재 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Stock2/1/0,전북대 자체,Property,StockQuantity,https://aas.tta.or.kr/ids/cd/StockQuantity/1/0,자재 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Stock3/1/0,전북대 자체,Property,StockQuantity,https://aas.tta.or.kr/ids/cd/StockQuantity/1/0,자재 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Stock4/1/0,전북대 자체,Property,StockQuantity,https://aas.tta.or.kr/ids/cd/StockQuantity/1/0,자재 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Stop/1/0,전북대 자체,Property,CommandStop,https://aas.tta.or.kr/ids/cd/CommandStop/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StopSwitch/1/0,전북대 자체,Property,StopSwitch,https://aas.tta.or.kr/ids/cd/StopSwitch/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StopSwitchLamp/1/0,전북대 자체,Property,StopSwitchLamp,https://aas.tta.or.kr/ids/cd/StopSwitchLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StopperCount/1/0,전북대 자체,Property,StopperCount,https://aas.tta.or.kr/ids/cd/StopperCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/StopperFront/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/StopperRear/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/StorageCode/1/0,전북대 자체,Property,StorageCode,https://aas.tta.or.kr/ids/cd/StorageCode/1/0,입·출고 구분은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/StorageCodeIn/1/0,전북대 자체,Property,StorageCode,https://aas.tta.or.kr/ids/cd/StorageCode/1/0,입·출고 구분은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/StorageCodeOut/1/0,전북대 자체,Property,StorageCode,https://aas.tta.or.kr/ids/cd/StorageCode/1/0,입·출고 구분은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/Store1Bits/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/Store2Bits/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/StoreCount/1/0,전북대 자체,Property,StoreCount,https://aas.tta.or.kr/ids/cd/StoreCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Summary/1/0,전북대 자체,SubmodelElementCollection,OccupancySummary,https://aas.tta.or.kr/ids/cd/OccupancySummary/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TTable/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Table/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TableClamp/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/TableCount/1/0,전북대 자체,Property,TableCount,https://aas.tta.or.kr/ids/cd/TableCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TableCylinder/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/TableServoOn/1/0,전북대 자체,Property,ServoOn,https://aas.tta.or.kr/ids/cd/ServoOn/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TableZ/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Tcp/1/0,전북대 자체,SubmodelElementCollection,Tcp,https://aas.tta.or.kr/ids/cd/Tcp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TeachPoint/1/0,전북대 자체,Property,TeachPositionNumber,https://aas.tta.or.kr/ids/cd/TeachPositionNumber/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TeachPosition/1/0,전북대 자체,Property,TeachPositionNumber,https://aas.tta.or.kr/ids/cd/TeachPositionNumber/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TeslaHandle/1/0,전북대 자체,Property,PresenceSensor,https://aas.tta.or.kr/ids/cd/PresenceSensor/1/0,감지 대상·위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/TeslaRows/1/0,전북대 자체,Property,RowCount,https://aas.tta.or.kr/ids/cd/RowCount/1/0,제품은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/TeslaStore/1/0,전북대 자체,Property,OccupancyWord,https://aas.tta.or.kr/ids/cd/OccupancyWord/1/0,비트-위치 대응은 AIMC
+https://facos.jbnu.ac.kr/ids/cd/TierCount/1/0,전북대 자체,Property,TierCount,https://aas.tta.or.kr/ids/cd/TierCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Torque/1/0,전북대 자체,Property,JointLoadRatio,https://aas.tta.or.kr/ids/cd/JointLoadRatio/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TorqueUp/1/0,전북대 자체,Property,ScrewdriverTorqueUp,https://aas.tta.or.kr/ids/cd/ScrewdriverTorqueUp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TowerLamp/1/0,전북대 자체,SubmodelElementCollection,TowerLamp,https://aas.tta.or.kr/ids/cd/TowerLamp/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TowerLampBuzzer/1/0,전북대 자체,Property,TowerLampBuzzer,https://aas.tta.or.kr/ids/cd/TowerLampBuzzer/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/TowerLampGreen/1/0,전북대 자체,Property,TowerLampGreen,https://aas.tta.or.kr/ids/cd/TowerLampGreen/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/TowerLampRed/1/0,전북대 자체,Property,TowerLampRed,https://aas.tta.or.kr/ids/cd/TowerLampRed/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/TowerLampYellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Tracking/1/0,전북대 자체,SubmodelElementCollection,Tracking,https://aas.tta.or.kr/ids/cd/Tracking/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Transfer/1/0,전북대 자체,SubmodelElementCollection,Transfer,https://aas.tta.or.kr/ids/cd/Transfer/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TransferCycleTime/1/0,전북대 자체,Property,CycleTime,https://aas.tta.or.kr/ids/cd/CycleTime/1/0,"작업 종류는 상위 묶음, 로봇 번호는 요소 이름"
+https://facos.jbnu.ac.kr/ids/cd/TransferDeviceId/1/0,전북대 자체,Property,TransferDeviceId,https://aas.tta.or.kr/ids/cd/TransferDeviceId/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TransferEvent/1/0,전북대 자체,Property,TransferEvent,https://aas.tta.or.kr/ids/cd/TransferEvent/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TransferQuantity/1/0,전북대 자체,Property,TransferQuantity,https://aas.tta.or.kr/ids/cd/TransferQuantity/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TransferType/1/0,전북대 자체,Property,TransferDeviceType,https://aas.tta.or.kr/ids/cd/TransferDeviceType/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TravelAxis/1/0,전북대 자체,SubmodelElementCollection,ServoAxis,https://aas.tta.or.kr/ids/cd/ServoAxis/1/0,축 번호는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/Trigger/1/0,전북대 자체,Property,MarkerTrigger,https://aas.tta.or.kr/ids/cd/MarkerTrigger/1/0,
+https://facos.jbnu.ac.kr/ids/cd/TriggerReady/1/0,전북대 자체,Property,MarkerTriggerReady,https://aas.tta.or.kr/ids/cd/MarkerTriggerReady/1/0,
+https://facos.jbnu.ac.kr/ids/cd/UpperConveyor/1/0,전북대 자체,SubmodelElementCollection,Conveyor,https://aas.tta.or.kr/ids/cd/Conveyor/1/0,상·하는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/UpperDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/UpperGuideLeft/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/UpperGuideRight/1/0,전북대 자체,SubmodelElementCollection,PneumaticCylinder,https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0,역할은 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/UpperLimit/1/0,전북대 자체,Property,InspectionUpperLimit,https://aas.tta.or.kr/ids/cd/InspectionUpperLimit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/UpperOperatorPanelEmo/1/0,전북대 자체,Property,EmergencyStop,https://aas.tta.or.kr/ids/cd/EmergencyStop/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/UpperPressureSwitch/1/0,전북대 자체,Property,PressureSwitch,https://aas.tta.or.kr/ids/cd/PressureSwitch/1/0,공정·위치는 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Vacuum/1/0,전북대 자체,SubmodelElementCollection,VacuumUnit,https://aas.tta.or.kr/ids/cd/VacuumUnit/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Vacuum/1/0,전북대 자체,Property,SolenoidValveOutput,https://aas.tta.or.kr/ids/cd/SolenoidValveOutput/1/0,구동 대상은 상위 묶음
+https://facos.jbnu.ac.kr/ids/cd/VacuumEjector/1/0,전북대 자체,Property,VacuumEjectorCount,https://aas.tta.or.kr/ids/cd/VacuumEjectorCount/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Value/1/0,전북대 자체,Property,IoWordValue,https://aas.tta.or.kr/ids/cd/IoWordValue/1/0,
+https://facos.jbnu.ac.kr/ids/cd/VisionInspectionLowerDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/VisionInspectionUpperDoorSensor/1/0,전북대 자체,Property,SafetyDoorSensor,https://aas.tta.or.kr/ids/cd/SafetyDoorSensor/1/0,도어 위치는 요소 이름
+https://facos.jbnu.ac.kr/ids/cd/WarehouseEvents/1/0,전북대 자체,SubmodelElementCollection,StorageEvents,https://aas.tta.or.kr/ids/cd/StorageEvents/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Warning/1/0,전북대 자체,Property,DeviceWarning,https://aas.tta.or.kr/ids/cd/DeviceWarning/1/0,
+https://facos.jbnu.ac.kr/ids/cd/WordsPerPosition/1/0,전북대 자체,Property,WordsPerPosition,https://aas.tta.or.kr/ids/cd/WordsPerPosition/1/0,
+https://facos.jbnu.ac.kr/ids/cd/WorkPresent/1/0,전북대 자체,Property,PalletPresent,https://aas.tta.or.kr/ids/cd/PalletPresent/1/0,위치는 상위 묶음·요소 이름
+https://facos.jbnu.ac.kr/ids/cd/WorkTable/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/WorkTables/1/0,전북대 자체,SubmodelElementCollection,WorkTable,https://aas.tta.or.kr/ids/cd/WorkTable/1/0,
+https://facos.jbnu.ac.kr/ids/cd/WorkedQuantity/1/0,전북대 자체,Property,ProducedQuantity,https://aas.tta.or.kr/ids/cd/ProducedQuantity/1/0,
+https://facos.jbnu.ac.kr/ids/cd/X/1/0,전북대 자체,Property,TcpX,https://aas.tta.or.kr/ids/cd/TcpX/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Y/1/0,전북대 자체,Property,TcpY,https://aas.tta.or.kr/ids/cd/TcpY/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Yellow/1/0,전북대 자체,Property,TowerLampYellow,https://aas.tta.or.kr/ids/cd/TowerLampYellow/1/0,공정은 AAS 위치
+https://facos.jbnu.ac.kr/ids/cd/Z/1/0,전북대 자체,Property,TcpZ,https://aas.tta.or.kr/ids/cd/TcpZ/1/0,
+https://facos.jbnu.ac.kr/ids/cd/Zero/1/0,전북대 자체,Property,GaugeZeroSet,https://aas.tta.or.kr/ids/cd/GaugeZeroSet/1/0,
+https://facos.jbnu.ac.kr/ids/cd/p/1/0,전북대 자체,Property,GaugeStart,https://aas.tta.or.kr/ids/cd/GaugeStart/1/0,

@@ -1,0 +1,47 @@
+{
+  "category": "COLLECTION",
+  "idShort": "PneumaticCylinder",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PneumaticCylinder/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Pneumatic cylinder"
+          },
+          {
+            "language": "ko",
+            "text": "공압 실린더"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Pneumatic cylinder collection."
+          },
+          {
+            "language": "ko",
+            "text": "공압 실린더 하나의 지령·위치 신호를 담는 묶음. 실린더의 역할(클램프·가이드·스토퍼 등)은 요소 이름으로 구분한다."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

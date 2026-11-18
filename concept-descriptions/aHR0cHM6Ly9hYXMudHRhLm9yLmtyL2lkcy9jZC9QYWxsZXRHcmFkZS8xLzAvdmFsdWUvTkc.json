@@ -1,0 +1,38 @@
+{
+  "category": "VALUE",
+  "idShort": "PalletGrade_Value_NG",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/PalletGrade/1/0/value/NG",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "NG"
+          },
+          {
+            "language": "ko",
+            "text": "불량"
+          }
+        ],
+        "dataType": "STRING",
+        "value": "NG",
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

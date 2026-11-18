@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MobileRobotPositionState",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MobileRobotPositionState/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Mobile robot position state"
+          },
+          {
+            "language": "ko",
+            "text": "이동로봇 위치 상태"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "INTEGER_COUNT",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Status code indicating whether the mobile robot is at a defined position."
+          },
+          {
+            "language": "ko",
+            "text": "이동로봇이 정해진 위치에 있는지 나타내는 상태 코드."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

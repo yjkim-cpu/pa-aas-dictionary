@@ -1,0 +1,48 @@
+{
+  "category": "PROPERTY",
+  "idShort": "CylinderPositionSensor",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/CylinderPositionSensor/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Cylinder position sensor"
+          },
+          {
+            "language": "ko",
+            "text": "실린더 위치 센서"
+          }
+        ],
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "BOOLEAN",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Signal detecting that a pneumatic cylinder has reached an end position."
+          },
+          {
+            "language": "ko",
+            "text": "공압 실린더가 끝 위치에 도달했는지 감지하는 신호. 어느 끝(상·하, 전·후, 열림·닫힘, 좌·우, A·B)인지는 요소 이름으로 구분한다."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

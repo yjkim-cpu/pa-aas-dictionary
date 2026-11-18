@@ -1,0 +1,49 @@
+{
+  "category": "PROPERTY",
+  "idShort": "MobileRobotHeading",
+  "administration": {
+    "version": "1",
+    "revision": "0"
+  },
+  "id": "https://aas.tta.or.kr/ids/cd/MobileRobotHeading/1/0",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en",
+            "text": "Mobile robot heading"
+          },
+          {
+            "language": "ko",
+            "text": "이동로봇 방향"
+          }
+        ],
+        "unit": "°",
+        "sourceOfDefinition": "TTA PA-AAS common data dictionary (generalized from JBNU P-Zone definitions)",
+        "dataType": "REAL_MEASURE",
+        "definition": [
+          {
+            "language": "en",
+            "text": "Heading angle of the mobile robot in the map frame."
+          },
+          {
+            "language": "ko",
+            "text": "지도 좌표계에서 이동로봇의 진행 방향각."
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "modelType": "ConceptDescription"
+}
