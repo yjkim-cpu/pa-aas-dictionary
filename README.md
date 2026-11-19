@@ -1,9 +1,13 @@
 # PA-AAS Common Data Dictionary(공통 데이터 사전) v0.1 — Draft(초안)
 
+TTA 김영재 수석(공학박사) · IEEE P4501 Working Group Chair
+
+> 이 문서는 전북 Physical AI 과제에서 TTA가 만든 것이며, IEEE P4501 Working Group의 산출물이 아니다.
+
 전북 Physical AI project(피지컬AI 과제)의 PA-AAS Submodel pack(서브모델 팩)에서 쓰는 **Common data dictionary(공통 데이터 사전)**이다. Dictionary(사전)의 Row(줄) 하나가 Kind of value(값의 종류) 하나이고, 그 한 줄이 AAS(Asset Administration Shell, 자산관리셸)의 Concept Description(CD, 개념설명) 하나다.
 어느 공정 · 위치 · Channel(채널)의 값인지는 사전이 아니라 AAS 안의 자리(상위 SubmodelElementCollection(SMC, 묶음) · SubmodelElement(요소)의 이름)와 AIMC(Asset Interfaces Mapping Configuration, 매핑 구성) · Channel profile(채널 프로파일)이 맡는다.
 
-Author(작성): 한국정보통신기술협회(TTA) AI혁신표준팀 · Generated(생성일) 2026-11-18 · Status(상태): **Draft(초안) — 합의 전. Identifier(식별자)와 Definition(뜻풀이)이 바뀔 수 있다.**
+Author(작성): 한국정보통신기술협회(TTA) AI혁신표준팀 · Generated(생성일) 2026-11-19 · Status(상태): **Draft(초안) — 합의 전. Identifier(식별자)와 Definition(뜻풀이)이 바뀔 수 있다.**
 Source(원천): 전북대 P존 AASX 2026-09-29 전체본 86개. Source identifier(원천 식별자) 531종(전북대 자체 · KOSMO 주소)을 값의 종류 기준으로 283줄로 정리했다.
 
 > ⚠ **TTA Namespace(주소) `https://aas.tta.or.kr/`는 Provisional(가안)이다**(TTA 전산 확정 전). 확정되면 식별자가 바뀔 수 있으므로 시스템에 고정해 넣지 말 것.
